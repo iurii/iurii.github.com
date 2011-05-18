@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My third post
+title: My third post about adventures during this morning
 ---
 
 h1. {{ page.title }}
