@@ -1,12 +1,27 @@
 ---
 layout: default
-title: Iurii's blog
+title: Yuriy Palamarchuk
 ---
 
-{% for post in site.posts limit:5 %}
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-{{ post.content }}
-<em>Posted on {{ post.date | date_to_long_string }}.</em>
-{% endfor %}
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 
+  <h1>Best posts</h1>
+  <ul class="posts">
+    <li><span>14 Apr 2011</span> &raquo; <a href="http://palamar4uk.livejournal.com/307330.html">In Russian: Things which you will do during your life</a></li>
+    <li><span>09 Apr 2011</span> &raquo; <a href="http://palamar4uk.livejournal.com/293197.html">In Russian: How people retreat without even starting something</a></li>
+    <li><span>10 Feb 2011</span> &raquo; <a href="http://palamar4uk.livejournal.com/265354.html">Brian Tracy: Miracle of self discipline</a></li>
+  </ul>
 
+  <h1>Friends</h1>
+  <ul class="posts">
+    <li><a href="http://xieergai29.livejournal.com/106041.html">Xieergai:</a> In Russian: don't study Chinese.</li>
+    <li><a href="http://xieergai29.livejournal.com/104575.html">Xieergai:</a> "Romantic" Chinese students</li>
+    <li><a href="http://xieergai29.livejournal.com/97942.html">Xieergai:</a> Law in China</li>
+  </ul>
+</div>
