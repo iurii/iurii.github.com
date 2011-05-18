@@ -1,7 +1,12 @@
 ---
-layout: default
-title: Second Post
+layout: post
+title: Second post
 ---
+
+h1. {{ page.title }}
+
+p(meta). 8 May 2011 - Shenzhen
 
 This will be the best blog ever in both English and Chinese.
 Fuck Russian. It won't bring any good.
+
