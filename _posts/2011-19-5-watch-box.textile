@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch box near Bagualing Shenzhen
+title: Watch box not far from my home
 ---
 
 h1. {{ page.title }}
