@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  用中文写博客
+title: 用中文写博客
 ---
 
 h1. {{ page.title }}
