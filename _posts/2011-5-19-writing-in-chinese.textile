@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 用中文写博客
+title: writing in chinese
 ---
 
 h1. {{ page.title }}
 
 p(meta). 19 May 2011 - Shenzhen
 
+Writing in Chinese, yes. What's up with the Atom feed?
 我现在很明确地感觉到我在这儿真的孤单单。这就是我想要的。办公室里我旁边有个新的同事，但他只是同事而已。在家呢，连老鼠都听不到。如果不开音乐就会有这种很清楚的感觉。没有可以分享心里与思考的会讲俄语的朋友。现在我就如沧海之一粟。在人人之中隐藏起来很简单，只要他们是半朋友半陌生人。
 
