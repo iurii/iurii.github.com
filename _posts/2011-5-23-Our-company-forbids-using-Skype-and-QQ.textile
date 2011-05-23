@@ -1,0 +1,47 @@
+---
+layout: post
+title: Our company forbids using Skype and QQ during work time
+---
+
+h1. {{ page.title }}
+
+p(meta). 23 May 2011 - Shenzhen
+
+First our HRs forbidded us using QQ, saying we spend too much time in it, talking with friends and not working.
+Thus they made us open new QQ accounts and tell them the password. Our sysadmin also did some tuning, so that inner QQ
+numbers couldn't add outer(from out of the world) QQ numbers. Most of my coworkers started using new QQ numbers, and the minority
+(including me) are using old numbers, and it causes some communications problems - when you have to send a picture or a text, you have to use old-fashioned
+e-mail method.
+
+I thought that's it, just a little slap in the face.
+Last Friday, though, our secretary came up to my desk and we had the following dialog:
+- Yuriy, do you use Skype ?
+- Yes
+- Then write down it here (gives me a sheet of paper with the list of all employees)
+I write my skype and notice that Skype is mostly used among foreigners. Moreover, the contacts list was renewed several times during last year,
+but no one ever asked for Skype. Well, maybe it's something new, I though.
+Sure. The secretary comes back in a few minutes and says:
+- Yuriy, please write down the password of your Skype.
+(I'm making a movement pointing the "fuck" in the air, symbolizing the fuck to the company with this kind of shit)
+- Yeah, sure.
+- Ok, If you don't want to tell your password, you have to open a new Skype account, but you still must tell the password.
+- Ok.
+
+The funniest thing is that they'd never decrease the unnecessary web-surfing time in this way.
+If you want, you can hang out on blogs, facebook, read RSS, or simply work slower.
+Being a freedom-loving person, I even want to rebel. Wear short pants with a freaking eye-smashing picture, make a tattoo of Mao Tze Dun on my chest, wear an undershirt, smoke at my workplace and bother female coworkers.
+
+They'd better think of motivation. There is more sense in it, though it's much harder to motivate, than to make up penalties and restrictions.
+(They also told me that they should deduct a penalty from my salary because I use work-time to eat my breakfast).
+Well what about the fact that I don't smoke and save the time usual smokers waste while smoking. Well what about being on a diet, and thus, having the
+necessity to have two breakfasts: one at 6 - 6:30, the other at 9:00 ?
+Well, at least now I know the wrong way. When I'll open my own company, I'll have a better picture of the things which work and the things which don't work.
+
+Oh, yes, they also mentioned MSN, which I don't have.
+I was going to guess what comes next, to make the life of employees more complicated and didn't have to wait long.
+Today they started checking the Skype (if someone used it during work-time) and continued asking for Skype passwords of the coworkers who were absent last Friday.
+
+Sure thing, if I'd encounter this kind of company in Ukraine, my motherland, I'd resign immediately, when I just started hearing the first letters
+of the words "Skype password" and "penalty".
+But I'm in China now, I respect this country with it's customs and traditions. And I'm mostly satisfied with my job. And my visa is being extended. I don't complain, Pussies, I'm still with you.
+
