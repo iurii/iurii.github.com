@@ -7,16 +7,10 @@ h1. {{ page.title }}
 
 p(meta). 24 May 2011 - Shenzhen
 
-Our translator, who usually translates from Chinese to Russian, got a task from our project-manager.
-The task is to translate 3000 CVs of Russian employees into Chinese. Having as much as 2 months to finish the task.
-My dad counted up that it means translating 1 CV / 4 minutes, not including time for opening, closing, saving files.
-Not taking into account that Kate has lots of tranlation work to do, besides doing useless work in translating CVs of people,
-who didn't even ask for it and don't even know about it, as this task mainly aims the fill up of our databases for our new job search
-website for Russian-Chinese-speaking professionals.
+Our translator, who usually translates from Chinese to Russian, got a task from our project-manager. The task is to translate 3000 CVs of Russian employees into Chinese. Having as much as 2 months to finish the task. My dad counted up that it means translating 1 CV / 4 minutes, not including time for opening, closing, saving files.
+Not taking into account that Kate has lots of tranlation work to do, besides doing useless work in translating CVs of people, who didn't even ask for it and don't even know about it, as this task mainly aims the fill up of our databases for our new job search website for Russian-Chinese-speaking professionals.
 
-Suppose I'm a Russian, who published his CV somewhere on a Russian job search website. Suppose I pointed out I know Chinese (cause that's the
-criterea to pick the CV for a translation).
-As I post a CV in a Russian website, I'm awaiting for a response from a Russian employer. My phone rings, I pick it up,
-and a weirdo Chinese voice asks me if my name is Yuriy and If I'd like to work in China. Dough ?!
+Suppose I'm a Russian, who published his CV somewhere on a Russian job search website. Suppose I pointed out I know Chinese (cause that's the criterea to pick the CV for a translation).
+As I post a CV in a Russian website, I'm awaiting for a response from a Russian employer. My phone rings, I pick it up, and a weirdo Chinese voice asks me if my name is Yuriy and If I'd like to work in China. Dough ?!
 
 
