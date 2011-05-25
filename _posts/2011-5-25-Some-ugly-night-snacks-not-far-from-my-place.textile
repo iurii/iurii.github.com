@@ -1,0 +1,12 @@
+---
+layout: post
+title: Some ugly night snacks not far from my place
+---
+
+h1. {{ page.title }}
+
+p(meta). 25 May 2011 - Shenzhen
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=night_crab1.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/night_crab1.jpg" border="0" alt="Shenzhen,Shenzhen,night,night,snack,snack"></a>
+
+No, I never tasted it. I'm not the one who's tasting some disgusting stuff to share the experience with friends and look at expression of their face.
