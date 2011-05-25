@@ -1,0 +1,13 @@
+---
+layout: post
+title: A girl in the street
+---
+
+h1. {{ page.title }}
+
+p(meta). 25 May 2011 - Shenzhen
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=_mid.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/_mid.jpg" border="0" alt="girls"></a>
+
+Actually, it was her, who was hunting me. I saw here when I was going to fix the film. She used her peripheral view, I noticed her and decided to
+take some pictures.
