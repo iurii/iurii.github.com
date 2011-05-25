@@ -5,7 +5,7 @@ title: Tim Ferris - 8 Rules that change the rules
 
 h1. {{ page.title }}
 
-p(meta). 23 May 2011 - Shenzhen
+p(meta). 25 May 2011 - Shenzhen
 
 I've been listening to Tim Ferris's "Four hour work week" and decided to write down some of his good ideas.
 
