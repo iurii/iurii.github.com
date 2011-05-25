@@ -1,0 +1,22 @@
+---
+layout: post
+title: Tim Ferris - 8 Rules that change the rules
+---
+
+h1. {{ page.title }}
+
+p(meta). 23 May 2011 - Shenzhen
+
+I've been listening to Tim Ferris's "Four hour work week" and decided to write down some of his good ideas.
+
+8 Rules that change the rules:
+
+1. Everything that popular is wrong.
+2. Focus on been productive and not busy.
+3. Beating the game, not playing the game.
+4. Different is better when it is more effective or more fun.
+5. Ask for forgiveness, not permission.
+6. Emphasise strength, don't fix weaknesses. Focuse on better use of your best
+weapons instead of constant repair.
+7. Things in excess become their opposite. More becomes less, etc.
+8. Money alone is not a solution.
