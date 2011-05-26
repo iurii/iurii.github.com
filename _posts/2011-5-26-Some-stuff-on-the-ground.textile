@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some stuff on the ground.
+title: Some stuff on the ground
 ---
 
 h1. {{ page.title }}
