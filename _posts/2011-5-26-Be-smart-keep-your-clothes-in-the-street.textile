@@ -1,0 +1,12 @@
+---
+layout: post
+title: Be smart - keep your clothes in the street
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 May 2011 - Shenzhen
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=worker_case.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/worker_case.jpg" border="0" alt="worker,Shenzhen"></a>
+
+That's what I like about Chinese. They're so rational. Maybe they sometimes do things without thorough thinking (which is the feature of Russians), but they are still able to beat it. That's the feature of Chinese: subordination, discipline. That makes the difference. Sometimes they don't think, just do, but, hey, it's better then philosophize. 
