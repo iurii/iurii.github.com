@@ -1,0 +1,12 @@
+---
+layout: post
+title: Some stuff on the ground.
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 May 2011 - Shenzhen
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=rose_2_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/rose_2_sm.jpg" border="0" alt="Shenzhen,Coco Park"></a>
+
+It's a rose in Coco Park.
