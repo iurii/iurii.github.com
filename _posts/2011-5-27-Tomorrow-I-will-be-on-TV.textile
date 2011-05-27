@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tomorrow I'll be on TV, talking about relationships, trust and tolerance.
+title: Tomorrow I'll be on TV, talking about relationships, trust and tolerance
 ---
 
 h1. {{ page.title }}
