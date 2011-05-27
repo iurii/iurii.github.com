@@ -1,0 +1,14 @@
+---
+layout: post
+title: Yesterday night I had a dream about having AIDS
+---
+
+h1. {{ page.title }}
+
+p(meta). 27 May 2011 - Shenzhen
+
+I must admit - it was one of the most motivating dreams in my life. I was at the hospital, I saw a doctor who already diagnosed several people having AIDS. In a minute I'd find out my diagnose. She walks out of the room, her expression is gloomy, so I already know the answer, but still ask her: "So, how is it?". She says I got AIDS and that they'll have to give me some drugs to sustain me for as long as possible. This drug has some side effects, including falling into faint during sex. My first thought "Damn, what about the trainings? Can I still train?", "Damn, now I need to do everything faster to have time to become an actor and a fighter!", "What shall I tell my mother, or should I better keep it in secret, what about my friends ?".I need to get out of here, that was a dream from above.
+
+By the way, some people say police started checking foreigner's identity in the streets of Shenzhen. So, one should carry a passport. Screw them, the copy is the most they'd get from me.
+
+
