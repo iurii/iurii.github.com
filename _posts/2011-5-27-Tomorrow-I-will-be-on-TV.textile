@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tomorrow I'll be on TV, talking about relationships, trust and tolerance
+date: 2011-05-27 15:31:00 
 ---
 
 h1. {{ page.title }}
