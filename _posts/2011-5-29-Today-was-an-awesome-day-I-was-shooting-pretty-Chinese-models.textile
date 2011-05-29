@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Today was an awesome day - I was shooting Chinese models
+date: 2011-05-29 21:00:00
 ---
 
 h1. {{ page.title }}
 
 p(meta). 29 May 2011 - Shenzhen
-date: 2011-05-29 21:00:00
 
 I could stay at home and learn Chinese, or go to the gym. It would be that sort of Sundays I usually have - good for self-development, yet not interesting. Yesterday I contacted a very pretty model, and she said there's a meeting in the OCT today. So I can go, take some pictures, socialize a bit.
 
@@ -35,6 +35,6 @@ By the way, pics are not mine. I prefer to use film to shoot Asian beauties, use
 And remember, ASIAN girls - is our everything.
 
 One of the authors of the pics: 
- <a href="http://weibo.com/zwm0735">http://t.qq.com/zwm0735</a>
+ <a href="http://weibo.com/zwm0735">http://weibo.com/zwm0735</a>
  <a href="http://t.qq.com/zwm0735">http://t.qq.com/zwm0735</a>
 
