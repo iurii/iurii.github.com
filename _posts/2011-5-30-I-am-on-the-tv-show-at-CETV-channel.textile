@@ -1,0 +1,16 @@
+---
+layout: post
+title: I'm on the TV show / 我参加的“夺爱大冒险”
+date: 2011-05-30 22:55:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 30 May 2011 - Shenzhen
+
+Yes, glory is knocking in my doors.<br />
+<a href="http://www.cetv.com/video/cetv-video-7245.html"><img src="http://ww1.sinaimg.cn/bmiddle/6e46c865jw1dhpkkay0csj.jpg" /></a><br />
+<br />
+<a href="http://www.cetv.com/video/cetv-video-7245.html">Link</a><br />
+<br />
+We're talking about dating sexy girlfriends, if it's okay for your girlfriend to work as a model, to wear sexy clothes, getting plastic surgery etc.
