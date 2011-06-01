@@ -1,0 +1,24 @@
+---
+layout: post
+title: Two movies I watched recently and changed a bit the way of thinking
+date: 2011-06-1 14:44:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 1 June 2011 - Shenzhen
+
+The first one is "The Bothersome man" (2006).
+Mustwatch for all office workers. It's an arthouse movie, with lots of unspoken ideas. Pretty gloomy, yet interesting. One might recall a movie called "Office Space" - a comedy about a software developer who finds himself prisoned in the cubicle, with no desires and aims in life, surrounded with several bosses giving him stupid tasks.
+These two movies "The Borthersome man" and "Office Space" are two sides of the same topic about wasting your time on the job you don't like. It's the topic I like. So when I read the movie intro, I felt very excited.
+The film is awesome, though, I doubt if I'd watch it the second time. Still, it has many good ideas, some clues, so maybe there will be time for it to be watched the 2nd time.
+
+The other one had even more profound impact on me. Called "The sea that thinks".
+It's an arthouse movie too, and the director is Scandinavian, just like the director of "The Bothersome man".
+Everybody can find something for themselves in this movie. Personally I took the aspect of illusions. Illusions which can sometimes rule our lives. Now I'm working on seeing through these illusions, to see the world more objectively.
+I believe, the less illusions you have, the faster you can solve the problem and move further. If your mind is in a haze, then you can't even point out the problem, which is, as we all know, the first step to it's solution.
+"The sea that thinks" - is a movie for those who likes to ask questions about sense of life and for those who try to identify themselves in this world.
+"Who am I" - is an honorable question, on one side. Animals probably don't ask themselves this kind of question. On the other side, this problem of self-identification seems to be pretty huge in modern society.
+Lots of labels, yet not that much answers. Teachers, programmers, doctors. Identification by profession, social status, cash amount. Seems people never knew there's other way but putting labels on everything. Especially putting labels on themselves.
+People think that they are the thoughts they think. Is it so ? I doubt it.
+
