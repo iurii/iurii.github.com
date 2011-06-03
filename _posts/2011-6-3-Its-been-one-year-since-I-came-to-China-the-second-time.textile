@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It's been one year since I came to China the second time
-date: 2011-06-2 15:15:00 
+date: 2011-06-3 12:24:00 
 ---
 
 h1. {{ page.title }}
