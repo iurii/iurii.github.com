@@ -1,0 +1,14 @@
+---
+layout: post
+title: I appear on the TV show "Da Yule Jia" / 我参加的“大娱乐家”昨晚上了电视
+date: 2011-06-08 11:41:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 8 June 2011 - Shenzhen
+
+Nothing special, though. My first show, I'm a bit nervous. It was cut pretty much. They even cut my sommersault, backflip and harp. So, actually, not much to watch there. Still, you can go to 32:40 and see me and my co-worker Alexander.<br />
+
+<embed src="http://player.youku.com/player.php/sid/XMjc0MDI0MjY4/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed>
+
