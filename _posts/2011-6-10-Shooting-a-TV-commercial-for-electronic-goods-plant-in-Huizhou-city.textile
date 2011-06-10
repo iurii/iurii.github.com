@@ -1,0 +1,28 @@
+---
+layout: post
+title: Shooting a TV commercial for an electronic goods plant in Huizhou city
+date: 2011-06-10 12:17:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 June 2011 - Shenzhen
+
+It was the first time I was working with a female director. As well as it was my first time in <a href="http://en.wikipedia.org/wiki/Huizhou">Huizhou</a> city.
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=tv_ad_1.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/tv_ad_1.jpg" border="0" alt="Tv ad 1"></a>
+
+You can rent the rails for 150 RMB per day - it's cheap and you don't have to think of place where to keep them.
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=tv_ad_2.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/tv_ad_2.jpg" border="0" alt="Tv ad 2"></a>
+
+The cannon shoots electronic devices with radiation. It's a way to check their quality.
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=tv_ad_3.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/tv_ad_3.jpg" border="0" alt="Tv ad 3"></a>
+
+The shooting was somewhere close to suburbs of Huizhou, so I enjoyed the feeling of being back to province with it's slow pace. There were mountains on the horizon, huge fluffy clounds seemed to be even more far away, the houses standing solid in the ground, the time seemed to be frozen, there was some rubbish on the ground, and even it's smell fit very well, it felt very natural.
+The shooting went on smoothly and fast, the crew was very professional. No talks, only action. Need to learn that. I saw their previous video and couldn't believe it was shot on a digital camera (Canon Mark II) - the quality was so good. Can't wait to see the new video.
+I learned lots of new stuff during this shooting. That's what I love.
+
+1. No matter what you shoot - get the rails. They're cheap, yet can bring the feeling of motion which will make your movie look much more cool, than if it was shot in a static way.
+2. The process of making a tv commercial is very similar to web-design. Once you get it done, there are still lots of iterations and changes before the client finally approves the video. Sometimes the process of re-editing of the video can last for months. In many cases you have to compromise with incompetent client. 
