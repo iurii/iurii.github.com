@@ -1,0 +1,15 @@
+---
+layout: post
+title: What if someone asks you why to learn Chinese if you're gonna die anyway
+date: 2011-06-14 16:03:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 14 June 2011 - Shenzhen
+
+Someone will come up and say to you: "Why do you study Chinese? You're gonna die anyway. It's no use!" (you can fill any other activity instead of Chinese). You might not find the answer immediately, but there is one, right from the Peaceful Warrior movie: "Warrior does what he loves". That's it. Of course we're not talking about the case of pushing yourself through suffering to grasp a certain level of language. In that case one should ask himself if it's worth the efforts.
+Speaking about myself, couple of new Chinese characters is like peanut butter with bread.
+
+But I don't possess photographic memory! I never could memorize even a poem! - someone might shout out from the crowd. The answer from the same movie: "Warrior has nothing to do with perfection". As long as you do what you love, there's no reason to think of death or why you do it. At least it makes you happy, and happiness is what we're striving for.
+
