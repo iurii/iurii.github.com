@@ -1,0 +1,16 @@
+---
+layout: post
+title: I'm not going to the competition, yet going to the show "天天向上"
+date: 2011-06-16 12:16:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 16 June 2011 - Shenzhen
+
+I could go to 江苏 (Jiangsu province) to compete in a fighting competition. Although, I'm pretty novice, but still might have some chances.
+They'd pay for the trip and even for the fight, and it would be fun, but it doesn't matter. I'd have to spend 40 days training everyday, sometimes twice per day. I'm getting dumber and dumber at my current job, so, to make my brains think, I study Chinese. If I'd go with 40 days training, it would mean I'd get more tired and had less time for study. And study of Chinese is crucial for me, as well as Cantonese, because I want to become a super-star, actor, tv-host - something like that. It also means I have to spend some time on acting. The most important is that I can't answer the question "Why should I fight someone?".
+
+At the same time, in a couple of weeks I'm going to the tv-show "天天向上" - and that's just what I need. I have no single thought of doubt about going to the show. 
+
+So, again, I figured out I need to concentrate on less things and thus get more results.
