@@ -1,0 +1,35 @@
+---
+layout: post
+title: Be man - learn to cry on the spot without emotions
+date: 2011-06-17 14:40:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 17 June 2011 - Shenzhen
+
+In this video I'll show you how to cry without emotions.
+1. Open your eyes wide. Start feeling how your eyeballs are burning.
+2. Don't blink
+3. Cry
+4. Get your Oscar
+
+In case you find it very hard to cry, try to close your eyes and rub them with fingers before the step 1.
+
+Youtube version
+
+<lj-embed id="146">
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/BCvzpEZkLfM?hl=en&amp;fs=1"></param><param name="allowFullScreen" value="true"></param></param><embed src="http://www.youtube.com/v/BCvzpEZkLfM?hl=en&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+</lj-embed>
+
+Youku version
+
+<lj-embed id="147">
+<embed src="http://player.youku.com/player.php/sid/XMjc2ODM1NjM2/v.swf" quality="high" width="480" height="400" align="middle" type="application/x-shockwave-flash"></embed>
+</lj-embed>
+
+I think that ability to cry might not give you a role, but it's definitely an advantage and fun!
+Say, you come to your boss and ask for a day off with tears in your eyes. Just imagine his look. Or you turn to your co-worker with tears in eyes and just say nothing. Or say: "I can't finish the task".
+
+The good news is that you don't need to feel bad in order to start crying. When I was doing some research on how to make yourself cry, I found some advices like "just feel sadness", "try to recall something sad from your past", "think of someone who died", "listen to some sad music". Lot's of not worthy advices, as for me. After trying to dive deep into bad mood to make myself cry, I actually didn't cry, yet felt very depressed. And I couldn't leave this state for a half an hour. I find it too damaging to your health, if you try to put emotions into it. In this case, it's just a technique, and you don't have to feel sad. Works like a charm. Sure thing you need to practice to make it work. For someone it might take a couple of hours, someone might need several days or weeks. Keep practicing and you'll get it.
+
