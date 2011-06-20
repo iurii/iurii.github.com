@@ -1,0 +1,26 @@
+---
+layout: post
+title: Playing piano before going to bed is what doctor ordered
+date: 2011-06-20 13:46:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 20 June 2011 - Shenzhen
+
+Some minor improvisations in the evening of hot Shenzhen weather.
+
+Youtube version
+
+<lj-embed id="148">
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/cNZ-n4aNvfI?hl=en&amp;fs=1"></param><param name="allowFullScreen" value="true"></param></param><embed src="http://www.youtube.com/v/cNZ-n4aNvfI?hl=en&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+</lj-embed>
+
+Youku version
+
+<lj-embed id="149">
+<embed src="http://player.youku.com/player.php/sid/XMjc3MzQ4OTUy/v.swf" quality="high" width="480" height="400" align="middle" type="application/x-shockwave-flash"></embed>
+</lj-embed>
+
+
+Being unprofessional(better to say newbie) I feel totally amazing after I play something. The best soul curing medicine is piano. Get out there, buy pianos, learn to play and stop complaining about life, hahahah
