@@ -1,0 +1,19 @@
+---
+layout: post
+title: Imagine you work at your job for some time, then you lose all the money
+date: 2011-06-21 17:32:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 21 June 2011 - Shenzhen
+
+Let's imagine, you're working at your job for 6 months. You were saving money. Then, one day you get robbed, or simpy lose all the money (inflation, stupid investing, etc.)
+Is there anything left ? If there's nothing left, if all your work was only about the money, then it should be a total waste of those 6 months.
+You were giving away your time only for the money. That turns out to be quite risky. You simply trade your time for money. And time is life.
+
+In other way, if you answer "I gained new knowledge, new experience, I lost all the money, but still I got something much more precious" - that means your current job is the right one. It means you're doing alright.
+
+When is it the "success" started to mean "life joy" ? Is it the same theory as "money" means "life joy" ? You're looking for happiness, or success? Cause this are not the same. Need to listen to yourself do understand what is it you want. And be careful not to be brainwashed by all those fake models of happiness, which are put into us through media, tv and movies.
+
+Yesterday I had a chat with a Chinese girl. She said that most of Chinese marry someone they don't love. Maybe only like. This state of affairs, though, should be common to other conuntries too. So, my question is: so you pick someone you don't love. How can you live with that someone for 50 years ? Together, every day. Every fucking day you wake up and see someone you don't like that much. And you usually spend most of your free time with your spouse. Let's make it 1/3 of your life. The same is with the job: how can you marry the job you don't love ? What's the point ? You spend 1/3 of you time with something you don't love. Let's add your spouse and let it be 2/3 of your life with the stuff you don't love. There's left about 1/3 of time for sleep and shit. Is it what you want ? I don't.
