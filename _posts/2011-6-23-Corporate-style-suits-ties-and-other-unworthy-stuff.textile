@@ -1,0 +1,23 @@
+---
+layout: post
+title: Corporate style, suits, ties and other onworthy stuff
+date: 2011-06-23 16:41:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 23 June 2011 - Shenzhen
+
+Suits are still pretty okay when there is a jacket or any other kind of upper clothes.
+It becomes more interesting, though, when it's hot outside. Naturally, you don't wanna wear jacket, so you have to tuck your shirt into your pants, or esle it doesn't look nice.
+But then there comes the paradox - if you walk straight, your shoulders are straight - the shirt will soon become untucked.
+On the other hand you have another option - you can stoop. In that case you can maintain your shirt in tucked in position. In case your belt is tightened too tight, you might even not have a chance not to stoop. But hey, at least you look as you expected to look!
+The shirt, which is buttoned up, won't let you breath, pressing your Adam's apple.
+Conclusion: pants + shirt is evil and bullshit.
+
+What's next? Shoes - I mean those patent-leather ones. Can you even come close to compare the comfort of wearing these shoes to normal jogging shoes ? We're not talking about very expensive or custome-made leather shoes.
+
+Tie is, probably, one of the worst things. Not only it reminds a loop on your neck, it also doesn't let you breath and heats you up as a scarf.
+Conclusion: corporate style, as well as wearing suits on events(when I have to wear a suit, or else people would think I don't respect them and the occasion), school uniform, university uniform(could you believe this shit exists in 21st century? Yes, it does, and I was the part of it) - everything is a traditional stupidity, which no one wants to question just because it's tradition. And you usually don't question something what everybody do.
+
+Solution would be to invent new corporate style, for example: jeans + white t-shirt. On the other side we all know that slim and fat people look better in the suit. So, the suit, actually, is something a guy with a muscular body don't want to wear. Because he looks the same as the week guy. So, I'd say, suits will always have the support of weak people as well as fat ones.
