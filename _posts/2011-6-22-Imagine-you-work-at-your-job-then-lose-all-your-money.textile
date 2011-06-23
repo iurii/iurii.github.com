@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Imagine you work at your job for some time, then you lose all the money
-date: 2011-06-21 17:32:00 
+date: 2011-06-23 9:52:00 
 ---
 
 h1. {{ page.title }}
 
-p(meta). 21 June 2011 - Shenzhen
+p(meta). 23 June 2011 - Shenzhen
 
 Let's imagine, you're working at your job for 6 months. You were saving money. Then, one day you get robbed, or simpy lose all the money (inflation, stupid investing, etc.)
 Is there anything left ? If there's nothing left, if all your work was only about the money, then it should be a total waste of those 6 months.
