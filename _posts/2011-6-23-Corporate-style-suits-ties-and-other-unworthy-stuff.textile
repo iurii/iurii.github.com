@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Corporate style, suits, ties and other onworthy stuff
+title: Corporate style, suits, ties and other unworthy stuff
 date: 2011-06-23 16:41:00 
 ---
 
