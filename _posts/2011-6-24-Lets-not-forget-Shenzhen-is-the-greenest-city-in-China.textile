@@ -1,0 +1,26 @@
+---
+layout: post
+title: Let's not forget that Shenzhen is the greenest city in China (photos)
+date: 2011-06-24 17:40:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 24 June 2011 - Shenzhen
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=shenzhen_trees.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/shenzhen_trees.jpg" border="0" alt="Shenzhen,trees"></a>
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=shenzhen_building_tree.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/shenzhen_building_tree.jpg" border="0" alt="Shenzhen,architecture,trees"></a>
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=shenzhen_view_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/shenzhen_view_sm.jpg" border="0" alt="Shenzhen,minolta hi-matic f,panoramic view"></a>
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=jenny1_square.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/jenny1_square.jpg" border="0" alt="girls,park,Shenzhen"></a>
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=Jenny5.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Jenny5.jpg" border="0" alt="girls,model"></a>
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=shenzhen6-8.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/shenzhen6-8.jpg" border="0" alt="Photobucket"></a>
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=shenzhen2-10.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/shenzhen2-10.jpg" border="0" alt="Photobucket"></a>
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=Annicka_place1.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Annicka_place1.jpg" border="0" alt="Photobucket"></a>
+
