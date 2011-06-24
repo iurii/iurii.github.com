@@ -1,0 +1,15 @@
+---
+layout: post
+title: Our company imposes 1000 RMB fine for not checking email
+date: 2011-06-24 15:36:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 24 June 2011 - Shenzhen
+
+The note to all employees:
+
+In order to guarantee up to date information exchange between employees, we ask you to check your corporate e-mail more often. Moreover, you should use the messangers which are provided by the company, and always stay online. If, for some private reasons, you don't obey this rule, you will have to pay 1000 RMB fine. We hope that every employee of the company will obey the rule.
+
+I love my company.
