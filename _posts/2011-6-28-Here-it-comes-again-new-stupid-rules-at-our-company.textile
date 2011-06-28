@@ -1,0 +1,17 @@
+---
+layout: post
+title: Here it comes again - new stupid rules at our company
+date: 2011-06-28 17:08:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 28 June 2011 - Shenzhen
+
+ Have I told you how much I like working in my company ? Today we had a meeting where our boss introduced to us new rules:
+ You can't go out during work time. Even if it's 15 minutes to buy some breakfast.
+ And there's also a new point system provided (which failed about two years ago). The idea is simple: every worker would get points.
+ Points would be deducted for coming late (at the same time there's a fine 1RMB/1min being late), for bad work attitude, for bad performance, for anything which is not good for the company.
+ In the end of the month you need to get at least 70 points. If you don't get them - your monthly salary will be deducted by 30%.
+ And the organ which gives points - is the boss. So there's no workaround. How do you like that for a Tuesday news ? No wonder, so much people left the company.
+ I'm sure there will be more people resigning, because of the new rules.
