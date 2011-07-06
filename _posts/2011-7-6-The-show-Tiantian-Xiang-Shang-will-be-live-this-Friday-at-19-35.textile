@@ -1,0 +1,14 @@
+---
+layout: post
+title: The show 天天向上 will be live this Friday at 19:35 (湖南卫视)
+date: 2011-07-06 17:10:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 6 July 2011 - Shenzhen
+
+我参加的天天向上预告网站: <a href="http://www.jiayuan.com/subject/2011Q3/ttxs_lwxq/">http://www.jiayuan.com/subject/2011Q3/ttxs_lwxq/</a> 本周五湖南卫视19:35.
+
+Have no idea what it will be like, don't know how exactly the director decided to cut it. Probably will watch it online. Stay tuned.
+
