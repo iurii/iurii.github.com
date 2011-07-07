@@ -1,0 +1,14 @@
+---
+layout: post
+title: A short promo video of our 天天向上 show
+date: 2011-07-07 17:21:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 7 July 2011 - Shenzhen
+
+I'm already a bit nervous, hahah.
+
+<a href="http://www.imgo.tv/clip-201107-1-18-111638-122165.shtml">http://www.imgo.tv/clip-201107-1-18-111638-122165.shtml</a>
+
