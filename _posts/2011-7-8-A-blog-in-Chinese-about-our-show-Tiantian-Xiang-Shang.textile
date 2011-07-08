@@ -1,0 +1,14 @@
+---
+layout: post
+title: A blog in Chinese about our show 天天向上
+date: 2011-07-08 17:15:00 
+---
+
+h1. {{ page.title }}
+
+p(meta). 8 July 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Me_nunchaku.jpg">
+
+The link to the blog, where you can see the pictures of all participants and hosts of July 8th 天天向上 : <a href="http://blog.sina.com.cn/s/blog_59e10e3f0102dqgg.html">http://blog.sina.com.cn/s/blog_59e10e3f0102dqgg.html</a>
+
