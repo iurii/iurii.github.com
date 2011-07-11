@@ -1,14 +1,8 @@
 module Jekyll
   
-  
-  # The CategoryIndex class creates a single category page for the specified category.
+
   class CategoryIndex < Page
     
-    # Initializes a new CategoryIndex.
-    #
-    #  +base+         is the String path to the <source>.
-    #  +category_dir+ is the String path between <source> and the category folder.
-    #  +category+     is the category currently being processed.
     def initialize(site, base, category_dir, category)
       @site = site
       @base = base
@@ -28,15 +22,6 @@ module Jekyll
     
   end
   
-  
-  # The Site class is a built-in Jekyll class with access to global site config information.
-  class Site
-    
-    # Creates an instance of CategoryIndex for each category page, renders it, and 
-    # writes the output to a file.
-    #
-    #  +category_dir+ is the String path to the category folder.
-    #  +category+     is the category currently being processed.
     def write_category_index(category_dir, category)
       index = CategoryIndex.new(self, self.source, category_dir, category)
       index.render(self.layouts, site_payload)
@@ -73,16 +58,7 @@ module Jekyll
 
   end
   
-  
-  # Adds some extra filters used during the category creation process.
-  module Filters
-    
-    # Outputs a list of categories as comma-separated <a> links. This is used
-    # to output the category list for each post on a category page.
-    #
-    #  +categories+ is the list of categories to format.
-    #
-    # Returns string
+
     def category_links(categories)
       categories = categories.sort!.map do |item|
         '<a href="/blog/category/'+item+'/">'+item+'</a>'
@@ -101,11 +77,7 @@ module Jekyll
       end
     end
     
-    # Outputs the post.date as formatted html, with hooks for CSS styling.
-    #
-    #  +date+ is the date object to format as HTML.
-    #
-    # Returns string
+ 
     def date_to_html_string(date)
       result = '<span class="month">' + date.strftime('%b').upcase + '</span> '
       result += date.strftime('<span class="day">%d</span> ')
