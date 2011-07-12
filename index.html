@@ -9,13 +9,23 @@ title: Yuriy Palamarchuk
   <a href="video.html" alt="Video" title="Video">视频</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="photo.html" alt="Photos" title="Photos">相册</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="about.html" alt="Acting experience" title="Acting experience">演出经验</a>
  </div>
 
-<div>
+<div style="float: left; width: 600px;">
   <h1>Blog Posts</h1>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+  <div style="width: 50px; float: left;">
+       Tags:<br />
+    <ul>
+      <li>Showbusiness</li>
+      <li>Life</li>
+      <li>Thoughs</li>
+      <li>Photos</li>
+      <li>Video</li>
+    </ul>
+</div>
 
   
 </div>
@@ -29,13 +39,4 @@ title: Yuriy Palamarchuk
   </ul>
 </div>
 
-<div style="width: 50px; float: left;">
-       Tags:<br />
-    <ul>
-      <li>Showbusiness</li>
-      <li>Life</li>
-      <li>Thoughs</li>
-      <li>Photos</li>
-      <li>Video</li>
-    </ul>
-</div>
+
