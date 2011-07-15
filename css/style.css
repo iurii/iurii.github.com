@@ -86,14 +86,14 @@ a:hover {
 	padding: 0px 0 0 0px;
 	font: normal 14px Georgia, "Times New Roman", Times, serif;
 	font-style: italic;
-	color: #ececec;
+	color: #ACACAC;
 } 
 
 #logo a {
 	border: none;
 	background: none;
 	text-decoration: none;
-	color: #ececec;
+	color: #ACACAC;
 }
 
 /* Search */
@@ -166,7 +166,7 @@ a:hover {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	font-weight: bold;
-	color: #FFFFFF;
+	color: #ACACAC;
 	border: none;
 }
 
