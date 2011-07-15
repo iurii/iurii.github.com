@@ -352,10 +352,10 @@ a:hover {
 	margin: 0;
 	padding-top: 20px;
 	line-height: normal;
-	font-size: 9px;
+	font-size: 12px;
 	/*text-transform: uppercase;*/
 	text-align: center;
-	color: #FFFFFF;
+	color: #7C7C7C;
 }
 
 #footer a {
