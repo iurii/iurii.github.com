@@ -68,7 +68,8 @@ a:hover {
 	margin: 0;
 	padding: 0;
 	color: #000000;
-	background: url(/images/img02.jpg) no-repeat left 15px;
+	/*background: url(/images/img02.jpg) no-repeat left 15px;*/
+	font-style: italic;
 }
 
 #logo h1, #logo p {
@@ -78,7 +79,7 @@ a:hover {
 	padding: 40px 0px 0px 0px;
 	letter-spacing: -1px;
 	/*text-transform: lowercase; */
-	font-size: 3.0em;
+	font-size: 3.8em;
 	background: #F1F1F1;
 }
 
