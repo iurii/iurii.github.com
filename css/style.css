@@ -344,7 +344,7 @@ a:hover {
 	height: 50px;
 	margin: 0 auto;
 	padding: 0px 0 15px 0;
-	background: #878787;
+	background: #EFEDEF;
 	font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -353,7 +353,7 @@ a:hover {
 	padding-top: 20px;
 	line-height: normal;
 	font-size: 9px;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	text-align: center;
 	color: #FFFFFF;
 }
