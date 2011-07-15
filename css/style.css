@@ -63,7 +63,7 @@ a:hover {
 
 #logo {
 	float: left;
-	width: 350px;
+	width: 450px;
 	margin: 0;
 	padding: 0;
 	color: #000000;
@@ -76,8 +76,8 @@ a:hover {
 #logo h1 {
 	padding: 40px 0px 0px 0px;
 	letter-spacing: -1px;
-	text-transform: lowercase;
-	font-size: 3.8em;
+	/*text-transform: lowercase; */
+	font-size: 3.0em;
 	background: #FFFFFF;
 }
 
@@ -93,7 +93,7 @@ a:hover {
 	border: none;
 	background: none;
 	text-decoration: none;
-	color: #ACACAC;
+	color: #6D6D6D;
 }
 
 /* Search */
