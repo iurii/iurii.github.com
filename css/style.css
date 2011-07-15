@@ -290,7 +290,7 @@ a:hover {
 
 #sidebar li li a {
 	padding: 0px 0px 0px 15px;
-	background: url(/images/img01.jpg) no-repeat left 5px;
+	/*background: url(/images/img01.jpg) no-repeat left 5px;*/
 }
 
 #sidebar h2 {
