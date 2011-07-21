@@ -1,0 +1,23 @@
+---
+layout: post
+title: Changsha in the evening
+date: 2011-07-21 16:22:00
+categories :
+- travelling
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 21 July 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/changsha_street1.jpg" />
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/changsha_evening1.jpg" />
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/changsha_evening2.jpg" />
+
+I will be back one day. I surely will. I will go to the same bar and order the same drinks, recalling those 5 days in Changsha which made me fall in love with China again.
+
+
+
