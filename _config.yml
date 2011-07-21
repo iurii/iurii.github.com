@@ -1,2 +1,2 @@
-paginate: true
-paginate: 5
+permalink:   pretty
+paginate:    5
