@@ -338,6 +338,20 @@ a:hover {
 	text-align: right;
 }
 
+.paging {
+    margin: 20px 0px;
+}
+
+.paging .newer {
+    float: right;
+    width: 25%;
+}
+
+.paging .older {
+    float: left;
+    width: 25%;
+}
+
 /* Footer */
 
 #footer {
