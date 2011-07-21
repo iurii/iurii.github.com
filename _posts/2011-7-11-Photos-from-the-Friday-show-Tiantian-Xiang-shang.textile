@@ -6,6 +6,7 @@ categories :
 - show
 - photos
 ---
+p(meta). 11 July 2011 - Shenzhen
 
 Every kind of man is present here.
 
