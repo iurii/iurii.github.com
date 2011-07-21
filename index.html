@@ -12,6 +12,11 @@ title: Yuriy Palamarchuk
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      
+  <p>
+    {{ post.content | strip_html | truncatewords: 100 }} &nbsp;
+    <a href="{{ post.url }}" class="read-more">read more</a>
+  </p>   
     {% endfor %}
   </ul>
 
