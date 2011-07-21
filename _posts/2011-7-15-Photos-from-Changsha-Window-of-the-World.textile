@@ -6,6 +6,9 @@ categories :
 - park
 - photos
 ---
+
+h1. {{ page.title }}
+
 p(meta). 15 July 2011 - Shenzhen
 
 I love Changsha. Once I asked someone why people of Changsha don't stare at foreigners. They said there are a lot of country men in Shenzhen, so they stare at you. In Changsha only locals, not much people from the province. And locals are more civilized then country men.
