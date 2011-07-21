@@ -2,6 +2,8 @@
 layout: post
 title: Need to change my job, just like one of my colleagues
 date: 2011-07-21 15:36:00
+categories :
+- job
 ---
 
 I wanted to take 3 days off to go to Chengdu, to record a show. My boss and some other people said "you already asked for day offs too much times", somebody said I have lots of work to do, someone says Russian co-workers can't reach me(yeah, sure, I'm every goddamn day in Skype and QQ).
