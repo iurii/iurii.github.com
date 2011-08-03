@@ -6,6 +6,12 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>Yuriy Palamarchuk </title>
 <link href="/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript">
+    function changeClass()
+    {
+        document.getElementById("photo").className += "selected";
+    }
+</script>
 </head>
 <body>
 <div id="wrapper">
@@ -28,8 +34,8 @@
                 <li style="border:none">
                   <a href="http://youli.co/index.html" shape="rect" class="selected">Blog</a><span class="shadow"></span>
                 </li>
-                <li>
-                  <a href="http://youli.co/photo.html" shape="rect">Photos</a>
+                <li id="photo">
+                  <a href="http://youli.co/photo.html" onclick="changeClass()" shape="rect">Photos</a>
                 </li>
 				<li>
                   <a href="http://youli.co/video.html" shape="rect">Videos</a>
