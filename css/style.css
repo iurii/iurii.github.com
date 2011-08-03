@@ -183,6 +183,91 @@ a:hover {
 #menu .current_page_item a {
 }
 
+#nav1 {
+	height:25px;
+	margin:0 auto ;
+	width:962px;	
+	text-align:center;
+}
+
+
+#nav1 ul {
+    
+	display:table;
+	float:left;
+	margin:0 auto;
+	padding:0;
+	list-style-type:none;
+	position:relative;
+	height:25px;
+	
+	font-size:10.2pt;
+	font-family: Verdana, Times New Roman,sans-serif;
+}
+
+
+#nav1 ul li {
+
+	display:block;
+	float:left;
+	margin:0;
+	padding:0;
+
+	background:transparent url("images/hmenu1.jpg") repeat-x top left;
+	border-left:0px solid #1e1e1e ;
+
+}
+
+
+#nav1 ul li a {
+    margin-top: 0px;
+    width: 200 px;
+	display:block;
+	float:left;
+	color:#BFBFBF;
+	text-decoration:none;
+	/* padding:0px 30px ;  */
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 30px;
+	padding-right: 30px;
+	line-height:25px;
+	font-weight:bold;
+}
+
+#nav1 ul li a:hover {
+
+	color:#000000;
+	text-decoration:none;
+
+}
+
+
+#nav1 li .selected {
+	color:#808080;
+	padding-top: 3px;
+	height: 39px;
+	margin-top: -3px;
+	background-color: #FFFFFF;
+}  
+
+
+
+#nav1 .shadow {
+  min-height:25px;
+  height:auto !important; 
+  height:25px;
+  min-width:22px;
+
+  overflow:hidden;
+  float:left;
+  background: transparent url( /images/shadow.png );
+  background-repeat:no-repeat;
+  min-height: 25px;
+
+}
+
+
 /* Page */
 
 #page {
@@ -345,90 +430,7 @@ a:hover {
 	
 }
 
-#nav1 {
-	height:25px;
-	margin:0 auto ;
-	width:962px;	
-	text-align:center;
-	background-color: #F6F6F6;
-}
 
-
-#nav1 ul {
-    
-	display:table;
-	float:left;
-	margin:0 auto;
-	padding:0;
-	list-style-type:none;
-	position:relative;
-	height:25px;
-	
-	font-size:10.2pt;
-	font-family: Verdana, Times New Roman,sans-serif;
-}
-
-
-#nav1 ul li {
-
-	display:block;
-	float:left;
-	margin:0;
-	padding:0;
-
-	background:transparent url("images/hmenu1.jpg") repeat-x top left;
-	border-left:0px solid #1e1e1e ;
-
-}
-
-
-#nav1 ul li a {
-    margin-top: 0px;
-    width: 200 px;
-	display:block;
-	float:left;
-	color:#BFBFBF;
-	text-decoration:none;
-	/* padding:0px 30px ;  */
-	padding-top: 0px;
-	padding-bottom: 0px;
-	padding-left: 30px;
-	padding-right: 30px;
-	line-height:25px;
-	font-weight:bold;
-}
-
-#nav1 ul li a:hover {
-
-	color:#000000;
-	text-decoration:none;
-
-}
-
-
-#nav1 li .selected {
-	color:#808080;
-	padding-top: 3px;
-	height: 39px;
-	margin-top: -3px;
-	background-color: #FFFFFF;
-}  
-
-
-
-#nav1 .shadow {
-  min-height:25px;
-  height:auto !important; 
-  height:25px;
-  min-width:22px;
-
-  overflow:hidden;
-  float:left;
-  background: transparent url( /images/shadow.png );
-  background-repeat:no-repeat;
-  min-height: 25px;
-
-}
 
 
 /* Footer */
