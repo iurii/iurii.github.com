@@ -345,6 +345,30 @@ a:hover {
 	
 }
 
+#nav1 li .selected {
+	color:#808080;
+	padding-top: 3px;
+	height: 39px;
+	margin-top: -3px;
+	background-color: #FFFFFF;
+}  
+
+
+
+#nav1 .shadow {
+  min-height:25px;
+  height:auto !important; 
+  height:25px;
+  min-width:22px;
+
+  overflow:hidden;
+  float:left;
+  background: transparent url( images/shadow.png );
+  background-repeat:no-repeat;
+  min-height: 25px;
+
+}
+
 
 /* Footer */
 
