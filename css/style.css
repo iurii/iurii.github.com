@@ -363,7 +363,7 @@ a:hover {
 
   overflow:hidden;
   float:left;
-  background: transparent url( images/shadow.png );
+  background: transparent url( /images/shadow.png );
   background-repeat:no-repeat;
   min-height: 25px;
 
