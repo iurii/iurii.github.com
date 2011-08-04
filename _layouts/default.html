@@ -45,7 +45,23 @@ if (filename == "index.html") {
     var about = document.getElementById("blog").setAttribute("class", "selected");
     var shadow = document.createElement('span');
     shadow.setAttribute('class', 'shadow');
-    var menu_about = document.getElementById("blog_about");
+    var menu_about = document.getElementById("menu_blog");
+    blog_about.appendChild(shadow);  
+    }
+    
+if (filename == "photo.html") {
+    var about = document.getElementById("blog").setAttribute("class", "selected");
+    var shadow = document.createElement('span');
+    shadow.setAttribute('class', 'shadow');
+    var menu_about = document.getElementById("menu_photo");
+    blog_about.appendChild(shadow);  
+    }
+    
+if (filename == "video.html") {
+    var about = document.getElementById("blog").setAttribute("class", "selected");
+    var shadow = document.createElement('span');
+    shadow.setAttribute('class', 'shadow');
+    var menu_about = document.getElementById("menu_video");
     blog_about.appendChild(shadow);  
     }
 
