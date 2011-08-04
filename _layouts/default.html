@@ -37,8 +37,10 @@ function lightUp(){
  
  var string=(location.href);
  // we work with slashes, so we need to make sure there are enough of them
+ alert("initial string:" + string);
  if (string == "http://youli.co") {
     string = "http://youli.co/index.html";
+     alert("edited string:" + string);
     }
 var getit = new Array(); 
 var getit = string.split('/');
