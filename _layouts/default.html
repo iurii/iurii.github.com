@@ -32,7 +32,7 @@ if (filename == "about.html") { }
  
 }
 
-
+// onload function to detect the page we are and light up the right button
 function lightUp(){
  
  var string=(location.href);
@@ -42,32 +42,26 @@ function lightUp(){
     }
 var getit = new Array(); 
 var getit = string.split('/');
-
 var result=getit[3];
-
 var filename=result.split(",");
 
+    var shadow = document.createElement('span');
+    shadow.setAttribute('class', 'shadow');
 
 if (filename == ("index.html" || "")) {
     var about = document.getElementById("blog").setAttribute("class", "selected");
-    var shadow = document.createElement('span');
-    shadow.setAttribute('class', 'shadow');
     var menu_blog = document.getElementById("menu_blog");
     menu_blog.appendChild(shadow);  
     }
     
 if (filename == "photo.html") {
     var photo = document.getElementById("photo").setAttribute("class", "selected");
-    var shadow = document.createElement('span');
-    shadow.setAttribute('class', 'shadow');
     var menu_photo = document.getElementById("menu_photo");
     menu_photo.appendChild(shadow);  
     }
     
 if (filename == "video.html") {
     var about = document.getElementById("video").setAttribute("class", "selected");
-    var shadow = document.createElement('span');
-    shadow.setAttribute('class', 'shadow');
     var menu_video = document.getElementById("menu_video");
     menu_video.appendChild(shadow);  
     }
@@ -75,8 +69,6 @@ if (filename == "video.html") {
 
 if (filename == "about.html") {
     var about = document.getElementById("about").setAttribute("class", "selected");
-    var shadow = document.createElement('span');
-    shadow.setAttribute('class', 'shadow');
     var menu_about = document.getElementById("menu_about");
     menu_about.appendChild(shadow);  
     }
