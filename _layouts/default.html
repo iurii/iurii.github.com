@@ -40,15 +40,22 @@ var getit = new Array();
 var getit = string.split('/');
 var result=getit[3]; 
 var filename=result.split(",");
+
+if (filename == "index.html") {
+    var about = document.getElementById("blog").setAttribute("class", "selected");
+    var shadow = document.createElement('span');
+    shadow.setAttribute('class', 'shadow');
+    var menu_about = document.getElementById("blog_about");
+    blog_about.appendChild(shadow);  
+    }
+
+
 if (filename == "about.html") {
     var about = document.getElementById("about").setAttribute("class", "selected");
     var shadow = document.createElement('span');
     shadow.setAttribute('class', 'shadow');
     var menu_about = document.getElementById("menu_about");
-    menu_about.appendChild(shadow); 
-    
-    
-    
+    menu_about.appendChild(shadow);  
     }
  
 }
@@ -75,7 +82,7 @@ if (filename == "about.html") {
             <div id="nav1"> 
               <ul>
                 <li id="menu_blog">
-                  <a href="http://youli.co/index.html" shape="rect" id="blog">Blog</a><span class="shadow"></span>
+                  <a href="http://youli.co/index.html" onclick="CngClass(this);" shape="rect" id="blog">Blog</a>
                 </li>
                 <li id="menu_photo">
                   <a href="http://youli.co/photo.html" onclick="CngClass(this);" shape="rect" id="photo">Photos</a>
