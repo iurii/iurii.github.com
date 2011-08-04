@@ -40,7 +40,16 @@ var getit = new Array();
 var getit = string.split('/');
 var result=getit[3]; 
 var filename=result.split(",");
-if (filename == "about.html") { document.getElementById("about").setAttribute("class", "selected");}
+if (filename == "about.html") {
+    var about = document.getElementById("about").setAttribute("class", "selected");
+    var shadow = document.createElement('span');
+    span.setAttribute('class', 'shadow');
+    var menu_about = document.getElementById("menu_about");
+    menu_about.appendChild(shadow); 
+    
+    
+    
+    }
  
 }
 
@@ -65,17 +74,17 @@ if (filename == "about.html") { document.getElementById("about").setAttribute("c
 	<div id="menu">
             <div id="nav1"> 
               <ul>
-                <li style="border:none">
-                  <a href="http://youli.co/index.html" shape="rect" class="selected">Blog</a><span class="shadow"></span>
+                <li id="menu_blog">
+                  <a href="http://youli.co/index.html" shape="rect" id="blog">Blog</a><span class="shadow"></span>
                 </li>
-                <li id="photo">
-                  <a href="http://youli.co/photo.html" onclick="CngClass(this);" shape="rect">Photos</a>
+                <li id="menu_photo">
+                  <a href="http://youli.co/photo.html" onclick="CngClass(this);" shape="rect" id="photo">Photos</a>
                 </li>
-				<li>
-                  <a href="http://youli.co/video.html" onclick="CngClass(this);" shape="rect">Videos</a>
+		<li id="menu_video">
+                  <a href="http://youli.co/video.html" onclick="CngClass(this);" shape="rect" id="video">Videos</a>
                 </li>
-				<li>
-                  <a href="http://youli.co/about.html" shape="rect" id="about">Contact</a>
+		<li id="menu_about">
+                  <a href="http://youli.co/about.html" onclick="CngClass(this);" shape="rect" id="about">Contact</a>
                 </li>
  
               </ul> 
