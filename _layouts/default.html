@@ -42,6 +42,7 @@ alert(getit + "<<getit");
 var result=getit[2];
 
 var filename=result.split(",");
+if (filename == null) { filename = "";}
 alert(filename + "<<filename");
 
 if (filename == ("index.html" || "")) {
