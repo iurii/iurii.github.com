@@ -41,7 +41,7 @@ var getit = string.split('/');
 var result=getit[3]; 
 var filename=result.split(",");
 
-if (filename == "index.html") {
+if (filename == ("index.html" || "")) {
     var about = document.getElementById("blog").setAttribute("class", "selected");
     var shadow = document.createElement('span');
     shadow.setAttribute('class', 'shadow');
