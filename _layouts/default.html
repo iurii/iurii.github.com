@@ -29,6 +29,7 @@ var getit = string.split('/');
 var result=getit[3]; 
 var filename=result.split(",");
 alert(filename);
+if (filename == "about.html") { CngClass(document.getElementById("about");)}
  
 }
 
@@ -63,7 +64,7 @@ alert(filename);
                   <a href="http://youli.co/video.html" onclick="CngClass(this);" shape="rect">Videos</a>
                 </li>
 				<li>
-                  <a href="http://youli.co/about.html" onclick="CngClass(this);" shape="rect">Contact</a>
+                  <a href="http://youli.co/about.html" onclick="CngClass(this);" shape="rect" id="about">Contact</a>
                 </li>
  
               </ul> 
