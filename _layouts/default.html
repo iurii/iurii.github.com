@@ -36,7 +36,10 @@ if (filename == "about.html") { }
 function lightUp(){
  
  var string=(location.href);
- if (location.href == "http://youli.co") { location.href = "http://youli.co"; }
+ // we work with slashes, so we need to make sure there are enough of them
+ if (string == "http://youli.co") {
+    location.href = "http://youli.co/";
+    }
 var getit = new Array(); 
 var getit = string.split('/');
 
