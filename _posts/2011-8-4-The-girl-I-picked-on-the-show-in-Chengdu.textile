@@ -1,0 +1,20 @@
+---
+layout: post
+title: The girl I picked on the show in Chengdu
+date: 2011-08-04 17:13:00
+categories :
+- show
+---
+
+h1. {{ page.title }}
+
+p(meta). 4 August 2011 - Shenzhen
+
+It's been a while. I was busy with all those show preparations, as well as going to the show itself and enjoying the legendary Chengdu for 5 days.
+I'm going to write a fresh update on my recent shooting activities later, so now you can just enjoy this pic. It's the girl who I picked on the love show in Chengdu.
+Still she's too traditional, as it seems, and she believes I'm too western, so I really don't know what's gonna work of that. Still, at least good memories.
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2011_July31_Chengdu_GuiGui.jpg" />
+
+
+
