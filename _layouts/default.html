@@ -36,15 +36,16 @@ if (filename == "about.html") { }
 function lightUp(){
  
  var string=(location.href);
+ if (location.href == "http://youli.co") { location.href = "http://youli.co"; }
 var getit = new Array(); 
-var getit = string.split('youli.co');
-alert(getit + "<<getit");
-var result=getit[1];
+var getit = string.split('/');
+
+var result=getit[3];
 
 var filename=result.split(",");
-alert(filename + "<<filename");
 
-if ((filename == "index.html") || (filename == "") || (filename == null)) {
+
+if (filename == ("index.html" || "")) {
     var about = document.getElementById("blog").setAttribute("class", "selected");
     var shadow = document.createElement('span');
     shadow.setAttribute('class', 'shadow');
