@@ -6,11 +6,17 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>Yuriy Palamarchuk </title>
 <link href="/css/style.css" rel="stylesheet" type="text/css" media="screen" />
-<script type="text/javascript">
-    function changeClass()
-    {
-        document.this.className += "selected";
-    }
+<script language="JavaScript" type="text/javascript">
+/*<![CDATA[*/
+var Lst;
+
+function CngClass(obj){
+ if (Lst) Lst.className='';
+ obj.className='selected';
+ Lst=obj;
+}
+
+/*]]>*/
 </script>
 </head>
 <body>
@@ -35,13 +41,13 @@
                   <a href="http://youli.co/index.html" shape="rect" class="selected">Blog</a><span class="shadow"></span>
                 </li>
                 <li id="photo">
-                  <a href="http://youli.co/photo.html" onclick="changeClass()" shape="rect">Photos</a>
+                  <a href="http://youli.co/photo.html" onclick="CngClass(this);" shape="rect">Photos</a>
                 </li>
 				<li>
-                  <a href="http://youli.co/video.html" onclick="changeClass()" shape="rect">Videos</a>
+                  <a href="http://youli.co/video.html" onclick="CngClass(this);" shape="rect">Videos</a>
                 </li>
 				<li>
-                  <a href="http://youli.co/about.html" onclick="changeClass()" shape="rect">Contact</a>
+                  <a href="http://youli.co/about.html" onclick="CngClass(this);" shape="rect">Contact</a>
                 </li>
  
               </ul> 
