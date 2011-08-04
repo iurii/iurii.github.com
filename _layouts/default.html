@@ -39,8 +39,9 @@ function lightUp(){
 var getit = new Array(); 
 var getit = string.split('/');
 var result=getit[3];
+alert(result + "<<result");
 var filename=result.split(",");
-alert("we are here" + filename);
+
 
 if (filename == ("index.html" || "")) {
     var about = document.getElementById("blog").setAttribute("class", "selected");
