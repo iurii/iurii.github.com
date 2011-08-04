@@ -40,8 +40,7 @@ var getit = new Array();
 var getit = string.split('/');
 var result=getit[3]; 
 var filename=result.split(",");
-alert(filename);
-if (filename == "about.html") { alert("light this page up!"); }
+if (filename == "about.html") { document.getElementById("about").setAttribute("class", "selected");}
  
 }
 
