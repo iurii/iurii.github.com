@@ -37,15 +37,14 @@ function lightUp(){
  
  var string=(location.href);
 var getit = new Array(); 
-var getit = string.split('co/');
+var getit = string.split('youli.co');
 alert(getit + "<<getit");
 var result=getit[2];
 
 var filename=result.split(",");
-if (filename == null) { filename = "";}
 alert(filename + "<<filename");
 
-if (filename == ("index.html" || "")) {
+if ((filename == "index.html") || (filename == "") || (filename == null)) {
     var about = document.getElementById("blog").setAttribute("class", "selected");
     var shadow = document.createElement('span');
     shadow.setAttribute('class', 'shadow');
