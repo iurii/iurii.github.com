@@ -1,0 +1,18 @@
+---
+layout: post
+title: This furniture is so 60-es
+date: 2011-08-05 16:56:00
+categories :
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 5 August 2011 - Shenzhen
+
+The girl is pretty, yeah.
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=OCT_furniture_girl.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/OCT_furniture_girl.jpg" border="0" alt="girls"></a>
+
+
+
