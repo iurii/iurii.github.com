@@ -54,24 +54,29 @@ if (filename == ("index.html" || "")) {
     menu_blog.appendChild(shadow);  
     }
     
-if (filename == "photo.html") {
+else if (filename == "photo.html") {
     var photo = document.getElementById("photo").setAttribute("class", "selected");
     var menu_photo = document.getElementById("menu_photo");
     menu_photo.appendChild(shadow);  
     }
     
-if (filename == "video.html") {
+else if (filename == "video.html") {
     var about = document.getElementById("video").setAttribute("class", "selected");
     var menu_video = document.getElementById("menu_video");
     menu_video.appendChild(shadow);  
     }
 
 
-if (filename == "about.html") {
+else if (filename == "about.html") {
     var about = document.getElementById("about").setAttribute("class", "selected");
     var menu_about = document.getElementById("menu_about");
     menu_about.appendChild(shadow);  
     }
+else {
+    var about = document.getElementById("blog").setAttribute("class", "selected");
+    var menu_blog = document.getElementById("menu_blog");
+    menu_blog.appendChild(shadow); 
+}
  
 }
 
