@@ -466,7 +466,7 @@ a:hover {
     line-height: 8px;
     margin: 25px 0 0 15px;
     padding-left: 179px;
-    width: 350px;
+    width: 230px;
 }
 
 #legal_ie {
@@ -479,9 +479,9 @@ a:hover {
 }
 .social {
     float: right;
-    margin-top: 15px;
+    margin-top: 7px;
     padding-bottom: 25px;
-    width: 495px;
-    font-size: 20px;
+    width: 445px;
+    font-size: 16px;
     font-style: italic;
 }
