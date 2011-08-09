@@ -485,3 +485,8 @@ a:hover {
     font-size: 16px;
     font-style: italic;
 }
+
+.social img{
+	padding-right: 6px;
+	
+}
