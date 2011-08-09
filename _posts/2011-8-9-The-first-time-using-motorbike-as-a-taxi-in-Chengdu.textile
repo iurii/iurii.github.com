@@ -1,0 +1,17 @@
+---
+layout: post
+title: The first time using motorbike as a taxi in Chengdu
+date: 2011-08-09 11:57:00
+categories :
+- photos
+- cities
+---
+
+h1. {{ page.title }}
+
+p(meta). 9 August 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/chengdu_motorbike.jpg" />
+
+It costed me 5 RMB to get to the place where I wanted to get, though the driver first wanted 15 RMB.
+And it's the first time I was taking pics in motion, using my manual-focus Minolta Hi-matic F.
