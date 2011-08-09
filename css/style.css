@@ -449,7 +449,7 @@ a:hover {
 	margin: 0;
 	padding-top: 0px;
 	line-height: normal;
-	font-size: 24px;
+	font-size: 20px;
 	font-style: italic;
 	/*text-transform: uppercase;*/
 	text-align: center;
@@ -477,7 +477,7 @@ a:hover {
     padding-left: 180px;
     width: 350px;
 }
-.sponsor {
+.social {
     float: right;
     margin-top: 35px;
     padding-bottom: 25px;
