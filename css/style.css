@@ -440,6 +440,9 @@ a:hover {
 	padding: 0px 0 15px 0;
 	background: #EFEDEF;
 	font-family: Arial, Helvetica, sans-serif;
+	 clear: both;
+         overflow: hidden;
+         position: relative;
 }
 
 #footer p {
@@ -454,4 +457,28 @@ a:hover {
 
 #footer a {
 	color: #7C7C7C;
+}
+
+#legal {	
+    float: left;
+    height: 50px;
+    line-height: 8px;
+    margin: 25px 0 0 15px;
+    padding-left: 179px;
+    width: 350px;
+}
+
+#legal_ie {
+    float: left;
+    height: 50px;
+    line-height: 8px;
+    margin: 25px 0 0 18px;
+    padding-left: 180px;
+    width: 350px;
+
+.sponsor {
+    float: right;
+    margin-top: 35px;
+    padding-bottom: 25px;
+    width: 295px;
 }
