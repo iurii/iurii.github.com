@@ -1,0 +1,17 @@
+---
+layout: post
+title: Chengdu in its inexpressible manner
+date: 2011-08-10 10:57:00
+categories :
+- photos
+- cities
+- girls
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 August 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/girl_police_square3.jpg" />
+
+The girl near the police car.
