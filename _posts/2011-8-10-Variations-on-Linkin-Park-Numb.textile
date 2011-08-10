@@ -1,0 +1,17 @@
+---
+layout: post
+title: Variations on Linkin Park - Numb
+date: 2011-08-10 11:01:00
+categories :
+- piano
+- music
+- videos
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 August 2011 - Shenzhen
+
+<embed src='http://player.youku.com/player.php/sid/XMjkxOTk1ODMy/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='sameDomain' type='application/x-shockwave-flash'></embed>
+
+Youtube version is over here: <a href="http://www.youtube.com/watch?v=fFFHt1BEuxY">http://www.youtube.com/watch?v=fFFHt1BEuxY</a>
