@@ -1,0 +1,19 @@
+---
+layout: post
+title: The bridge at Lizhi park
+date: 2011-08-15 17:21:00
+categories :
+- photos
+- park
+---
+
+h1. {{ page.title }}
+
+p(meta). 15 August 2011 - Shenzhen
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=Lizhi_park_bridge_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Lizhi_park_bridge_sm.jpg" border="0" alt="Shenzhen,park"></a>
+
+
+
+
+
