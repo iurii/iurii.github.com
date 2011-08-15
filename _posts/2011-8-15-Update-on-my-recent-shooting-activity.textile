@@ -1,0 +1,21 @@
+---
+layout: post
+title: The bridge at Lizhi park
+date: 2011-08-15 17:38:00
+categories :
+- photos
+- shooting
+---
+
+h1. {{ page.title }}
+
+p(meta). 15 August 2011 - Shenzhen
+
+<a href="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&amp;current=TV_ad_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/TV_ad_sm.jpg" border="0" alt="factory,tv ad"></a>
+
+<b>July</b>:
+8 - Growatt electric suppliances tv ad
+23 - Dongguan Handsome furniture ad
+26 - TV show 大娱乐家
+27-31 Chengdu TV show - 窈窕蜀女
+
