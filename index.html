@@ -11,9 +11,9 @@ title: Yuriy Palamarchuk
     {% for post in paginator.posts %}
         <li>
   <p>
-    {{ post.content }} &nbsp;
+    {{ post.content }} 
     
-    Link to the post: <a href="{{ post.url }}" style="text-decoration: underline;">《{{ post.title }}》</a>
+    Link to the post: <a href="{{ post.url }}" style="text-decoration: underline;">"{{ post.title }}"</a>
   </p>
         </li>
     {% endfor %}
