@@ -11,7 +11,7 @@ h1. {{ page.title }}
 
 p(meta). 17 August 2011 - Shenzhen
 
-<img src="http://s637.photobucket.com/albums/uu96/palamar4uk/?action=view&current=yuri16s.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/yuri16s.jpg" />
 
 训练后, 我赶时间骑单车回家. 当时我如果骑过抽烟人的烟云去我甚至想打死他. 感觉特别难受. 每次想杀人.
 有时候你的朋友抽烟, 所以要么你宽容, 让他伤害你的身体, 要么无法跟他在一起.
