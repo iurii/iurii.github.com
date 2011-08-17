@@ -151,7 +151,7 @@ else {
                                                             <ol>
                                                               {% for post in site.posts offset:1 %}
                                                                 <li>
-                                                                  <time datetime="{{ post.date | xmlschema }}">{{ post.date | date: "%m" }}</time>
+                                                                  <time datetime="{{ post.date | xmlschema }}">{{ post.date | date_to_long_string }}</time>
                                                                   <p><a href="{{ post.url }}">{{ post.title }}</a></p>
                                                                 </li>
                                                               {% endfor %}
