@@ -135,16 +135,12 @@ else {
 	
 						<li>
 							<h2>Categories</h2>
-							<ul>
-								<li><a href="#">Show</a></li>
-								<li><a href="#">Life</a></li>
-								<li><a href="#">Psychology</a></li>
-								<li><a href="#">China</a></li>
-								<li><a href="#">Trainings</a></li>
-								<li><a href="#">Girls</a></li>
-                                                                <li><a href="#">Chinese</a></li>
-                                                                <li><a href="#">Cantonese</a></li>
-							</ul>
+                                                        <ul>
+                                                        {% for category in site.categories %}
+                                                         <li><a href="#{{ category | first }}">{{ category | first }}</a></li>
+                                                        {% endfor %}
+                                                        </ul>
+
 						</li>
 						<li>
 							<h2>Archives</h2>
