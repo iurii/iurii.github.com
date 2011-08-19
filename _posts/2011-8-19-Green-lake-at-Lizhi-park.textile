@@ -11,6 +11,6 @@ h1. {{ page.title }}
 
 p(meta). 19 August 2011 - Shenzhen
 
-<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/lizhi_lake_sm.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/lizhi_lake.jpg" />
 Very relaxing feeling. 
 
