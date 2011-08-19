@@ -1,0 +1,16 @@
+---
+layout: post
+title: Green lake at Lizhi park
+date: 2011-08-19 16:12:00
+categories :
+- photos
+- park
+---
+
+h1. {{ page.title }}
+
+p(meta). 19 August 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/lizhi_lake_sm.jpg" />
+Very relaxing feeling. 
+
