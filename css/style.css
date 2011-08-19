@@ -329,6 +329,13 @@ a:hover {
 	text-align: justify;
 }
 
+.posts {
+	padding-top: 20px;
+}
+.posts li{
+	padding-top: 20px;
+}
+
 .links {
 	padding-top: 20px;
 	font-size: 12px;
