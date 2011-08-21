@@ -11,6 +11,6 @@ h1. {{ page.title }}
 
 p(meta). 21 August 2011 - Shenzhen
 
-<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/camera_small.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/girl_rush_square.jpg" />
 In fact, the pace of life in Chengdu is pretty relaxing. Nobody rushes anywhere.
 
