@@ -1,0 +1,16 @@
+---
+layout: post
+title: Chengdu girl in rush
+date: 2011-08-21 11:50:00
+categories :
+- photos
+- girls
+---
+
+h1. {{ page.title }}
+
+p(meta). 21 August 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/camera_small.jpg" />
+In fact, the pace of life in Chengdu is pretty relaxing. Nobody rushes anywhere.
+

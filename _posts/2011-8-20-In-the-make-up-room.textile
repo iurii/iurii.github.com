@@ -11,5 +11,5 @@ h1. {{ page.title }}
 p(meta). 20 August 2011 - Shenzhen
 
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/camera_small.jpg" />
-This camera was used to take an interview of every guest who took part in the show《窈窕蜀女》.
+This camera was used to take an interview of every guest who took part in the show 《窈窕蜀女》.
 
