@@ -53,7 +53,7 @@ a:hover {
 /* Header */
 
 #header-wrapper {
-	height: 170px;
+	height: 160px;
 	background-color: #F1F1F1;
 }
 
@@ -79,7 +79,7 @@ a:hover {
 }
 
 #logo h1 {
-	padding: 40px 0px 0px 0px;
+	padding: 30px 0px 0px 0px;
 	letter-spacing: -1px;
 	/*text-transform: lowercase; */
 	font-size: 3.8em;
@@ -211,8 +211,6 @@ a:hover {
 	float:left;
 	margin:0;
 	padding:0;
-
-	background:transparent url("images/hmenu1.jpg") repeat-x top left;
 	border-left:0px solid #1e1e1e ;
 
 }
