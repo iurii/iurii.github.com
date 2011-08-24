@@ -1,0 +1,17 @@
+---
+layout: post
+title: Chengdu girls are shy
+date: 2011-08-24 11:23:00
+categories :
+- photos
+- girls
+---
+
+h1. {{ page.title }}
+
+p(meta). 24 August 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/girl_chengdu_resized2.jpg" />
+Well, I'd say most Chinese girls are more shy than foreign girls, yet everything is changing,
+so we'll see what China will be in next 5-10 years.
+
