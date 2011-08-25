@@ -9,7 +9,9 @@ title: Yuriy Palamarchuk
 <h2>Posts about Show:</h2>
 
 <h2>Articles by Category:</h2>
+<ul>
 
+{% for category in site.categories %}
    <ul>
    {% for posts in category['show'] %}
      {% for post in posts %}
@@ -17,7 +19,9 @@ title: Yuriy Palamarchuk
      {% endfor %}
    {% endfor %}
    </ul>
-
+ </li>
+{% endfor %}
+</ul>
 
 
  </div>
