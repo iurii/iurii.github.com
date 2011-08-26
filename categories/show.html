@@ -12,10 +12,10 @@ title: Yuriy Palamarchuk
 
 
    <ul>
-   {% for posts in site.categories['show'] %}
+   {% for posts in site.categories.show %}
      {% for post in posts %}
        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-       {{ site.categories.CATEGORY }}
+      
      {% endfor %}
    {% endfor %}
    </ul>
