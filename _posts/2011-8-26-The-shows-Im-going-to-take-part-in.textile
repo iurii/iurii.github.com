@@ -1,0 +1,17 @@
+---
+layout: post
+title: The shows I'm going to take part in
+date: 2011-08-26 17:23:00
+categories :
+- photos
+- show
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 August 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/car_show_550_2.jpg" />
+On the 2nd of September I'm going to Shanghai to compete in the first round of 中国达人修 show. If I pass, I'll participate in the show itself.
+And on the 5th of September I'm going to Chengdu to participate in another show called《欢喜来逗阵》.
+
