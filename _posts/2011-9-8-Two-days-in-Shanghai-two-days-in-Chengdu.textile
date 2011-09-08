@@ -1,0 +1,34 @@
+---
+layout: post
+title: Two days in Shanghai, two days in Chengdu
+date: 2011-09-08 17:37:00
+categories :
+- photos
+- show
+- cities
+---
+
+h1. {{ page.title }}
+
+p(meta). 8 September 2011 - Shenzhen
+
+I was told not to take part in the contest for 中国达人秀 show in Shanghai, and instead will probably go to Nanjing next week. So I just went to Shanghai to see my friends.
+I was back to Shenzhen on Sunday evening, and after only 4 hours of sleep was on my way to Chengdu (7:30 morning flight) to take part in the show 《欢喜来逗阵》.
+That same day in the evening I had a rehearsal, the same was next day.
+I did my job, and I did it pretty fine. Though, I found out there were some issues with technique and my general understanding of the show itself.
+
+- Hard to concentrate on movements, because you have to listen to music to know when to change the weapon (nunchaku, stick)
+- Hard to work with nunchaku, as the clothes was not suitable for that
+- The stage was pretty small, haven't had much space to move
+- Limited time. I forgot to make some stuff and so it's gone as there's no stuff
+- Of course, being a bit nervous. Though, must admit, I do a good job in that direction and barely become nervous
+- The song I learned and practiced was in a different tone, so I had to relearn it in a C key in one day.
+
+After the show I felt super-tired. Yet super-happy, as hard job was over and I did my best, though, I should do better.
+At least now I know what is 90 sec performance and what I will encounter during next performances.
+
+Once again I come to a point where I realize, that I need to became a creator of short films. With fight scenes.
+The next day after the show I had an early plane to Shenzhen, and went to job immediately, where I was told if I go on asking for leave too ofthen, I would be fired.
+They even wanted me not to go to the 中国达人秀 contest. Yeah, sure, waste once in a life-time chance for an opportunity to become a "good and obedient worker".
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/show_square.jpg" />
