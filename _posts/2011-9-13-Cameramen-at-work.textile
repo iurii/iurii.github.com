@@ -1,0 +1,14 @@
+---
+layout: post
+title: Cameramen at work
+date: 2011-09-13 14:55:00
+categories :
+- photos
+- show
+---
+
+h1. {{ page.title }}
+
+p(meta). 13 September 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/operators_square.jpg" />
