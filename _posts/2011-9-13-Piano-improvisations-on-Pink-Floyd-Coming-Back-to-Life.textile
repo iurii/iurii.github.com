@@ -1,0 +1,16 @@
+---
+layout: post
+title: Piano improvisations on Pink Floyd's "Coming Back to Life"
+date: 2011-09-13 14:55:00
+categories :
+- videos
+- music
+---
+
+h1. {{ page.title }}
+
+p(meta). 13 September 2011 - Shenzhen
+
+<iframe width="420" height="345" src="http://www.youtube.com/embed/T5r-uQVvTMQ" frameborder="0" allowfullscreen></iframe>
+
+Or you can watch it on <a href="http://v.youku.com/v_show/id_XMzAzMzM2MjQw.html">Youku</a>
