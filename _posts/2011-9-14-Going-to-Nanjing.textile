@@ -1,0 +1,15 @@
+---
+layout: post
+title: Going to Nanjing
+date: 2011-09-14 14:59:00
+categories :
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 14 September 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/airplane_square.jpg" />
+
+Going to participate at the press-conference of the show called 中国达人秀 (China has talents) . Don't know what exactly am I gonna do there, yet will definitely use my nunchaku.
