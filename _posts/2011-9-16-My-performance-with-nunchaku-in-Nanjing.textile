@@ -1,0 +1,18 @@
+---
+layout: post
+title: My performance with nunchaku in Nanjing
+date: 2011-09-16 17:59:00
+categories :
+- videos
+- show
+---
+
+h1. {{ page.title }}
+
+p(meta). 16 September 2011 - Shenzhen
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Ls_ojZHLc58" frameborder="0" allowfullscreen></iframe>
+
+So I went to participate in the press-conference of 中国达人秀 (China has talents) . It was generally a fail.
+I had no stick, no table tennis balls(to hit them with nunchaku), so I had to make up the performance with nunchaku only. The music started too early, so I was late by a few seconds.
+Inspite of all that I met some good people and learned new stuff, and I enjoyed the city of Nanjing. Awesome city with great culture and variaty of parks, places of interest, lakes.
