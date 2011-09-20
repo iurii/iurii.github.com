@@ -1,0 +1,15 @@
+---
+layout: post
+title: The bridge in Shanghai
+date: 2011-09-20 17:49:00
+categories :
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 20 September 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Shanghai_square_sm.jpg" />
+
+The picture was taken on the 3rd of September.
