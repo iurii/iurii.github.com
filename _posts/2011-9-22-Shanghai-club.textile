@@ -1,0 +1,15 @@
+---
+layout: post
+title: The Shanghai club
+date: 2011-09-22 10:59:00
+categories :
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 September 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/shanghai_bar2_sq.jpg" />
+
+Burn your life down, son.
