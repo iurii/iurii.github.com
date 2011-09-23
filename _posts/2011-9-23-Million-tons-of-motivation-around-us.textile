@@ -1,0 +1,40 @@
+---
+layout: post
+title: Millions tons of motivation around us
+date: 2011-09-23 16:00:00
+categories :
+- photos
+- motivation
+---
+
+h1. {{ page.title }}
+
+p(meta). 23 September 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Ken_billiard_small_good.jpg" />
+
+Lots of motivation here.
+When I see a fat guy, I don't want to skip gym sessions anymore.
+(I see another fat person in the shop, buying trillions of junk food)
+
+When I see a person in glasses, I want to start excercising my eyes immediately.
+(Plenty of people in China never take off their glasses)
+
+When I see stupididy of masses, I want to think faster.
+(For example, when shopping in a mall, you have to maneuver around those super-slow people)
+
+When I see people who are not attentive, I want to always be focused.
+(When riding my bike, I'm always 100% focused, always analyze the situation on the road. Once I almost bypass a person, I often hear exclamations and sighs. Once there was even a man who told me "be careful!". Like I myself am not interested in avoiding the dangerous situation on the road. I see them in a mile, they don't see me in a meter. Now I understand how people get in car accidents.)
+
+When I see people with zero reaction, I always want to react fast.
+(Standing on the red light, it sometimes takes as much as several seconds for most of them to find out it's green light already)
+
+When I see lazy people, I want to do something useful immediately. Something for myself.
+(People change coins and go to play games, spending both money and time).
+
+When I see poor people, I want to become rich. 
+(I see a "beggar" who has hands, but does nothing useful. Just asks for money)
+
+When I see the way most office workers walk, I can see them in their old age: even more weak walk pace with bended backbone.
+(People do absolutely nothing. No sports. If I still can see old people practicing Taiji in the mornings, that's good. At the same time I see no young people. The same is about gyms where most of the visitors are people over thirty.)
+
