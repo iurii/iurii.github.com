@@ -1,0 +1,19 @@
+---
+layout: post
+title: Watering trees in Shenzhen
+date: 2011-09-26 16:00:00
+categories :
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 September 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/water_550_2.jpg" />
+
+That's a very pleasant sight of view, isn't it ?
+Well, if it was a young sexy girl watering the trees, that'd be more interesting, but hey.
+
+
+
