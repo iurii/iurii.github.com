@@ -1,0 +1,18 @@
+---
+layout: post
+title: Green trees along Shangbu Middle road in Shenzhen
+date: 2011-09-27 17:54:00
+categories :
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 27 September 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/traffic_shangbu_550-1.jpg" />
+
+The most exciting about Shenzhen is that you can see the montains in the gaps between the buildings.
+
+
+
