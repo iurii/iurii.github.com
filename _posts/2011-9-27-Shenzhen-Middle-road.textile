@@ -10,7 +10,7 @@ h1. {{ page.title }}
 
 p(meta). 27 September 2011 - Shenzhen
 
-<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/traffic_550_good.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/traffic_550_good2.jpg" />
 
 Now there's a new subway station here, called 通新岭 (Tong Xin Ling).
 
