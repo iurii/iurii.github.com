@@ -1,0 +1,31 @@
+---
+layout: post
+title: 10 pictures of Nanjing city
+date: 2011-09-29 12:21:00
+categories :
+- photos
+- cities
+- show
+---
+
+h1. {{ page.title }}
+
+p(meta). 29 September 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/nanjing_street_food_550.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/nanjing_street3_550.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing_river_550.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/nanjing_street_sq_550.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/nanjing_show_sq_550.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/nanjing_show_girl_550.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/nangjing_castle_550.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing_lake_550-1.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/nanjing_lake2_wide_550.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/nanjing_street_food2_550.jpg" />
+
+The pictures were taken during my trip to Nanjing (南京) on the 14-16th of September.
+The best part of the trip was renting a boat and sailing along the 玄武湖 (XuanWu lake) at night.
+
+
+
+
