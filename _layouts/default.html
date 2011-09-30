@@ -153,7 +153,7 @@ else {
             <h3>{{ post.date | date: '%Y' }}</h3>
           {% else %}
           
-            {% capture month %}{{ 'September' }}{% endcapture %}
+            {% capture month %}{{September}}{% endcapture %}
     <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endunless %}
 
