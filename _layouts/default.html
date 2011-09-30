@@ -156,9 +156,6 @@ else {
             {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
             {% if year != nyear %}
               <h3>{{ post.date | date: '%Y' }}</h3>
-              {% if post.date | date:"%b" == "September" %} 
-    <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endif %}
             {% endif %}
        {% endif %}
     {% endunless %}
