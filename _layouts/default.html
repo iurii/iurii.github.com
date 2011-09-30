@@ -145,25 +145,25 @@ else {
 						<li>
 							<h2>Archives</h2>
                                                         
-                                                        {% for year in (2010..2015) reversed %}
-                                                            {% if site.collated_posts[year] %}
-                                                            <h2>{{ year }}</h2>
-                                                            {% endif %}
-                                                            {% for month in (1..12) reversed %}
-                                                            {% if site.collated_posts[year][month] %}
-                                                            <h3>{{ month | to_month }}</h3>
-                                                            <ul>
-                                                            {% for day in (1..31) reversed %}
-                                                            {% if site.collated_posts[year][month][day] %}
-                                                            {% for post in site.collated_posts[year][month][day] reversed %}
-                                                            <li><a href='{{ site.base_url }}{{ post.url }}' title="{{ post.title }}">{{ post.title }}</a></li>
-                                                            {% endfor %}
-                                                            {% endif %}
-                                                            {% endfor %}
-                                                            </ul>
-                                                            {% endif %}
-                                                            {% endfor %}
-                                                            {% endfor %}
+{% for year in (2005..2015) reversed %}
+{% if site.collated_posts[year] %}
+<h2 class="archives">{{ year }}</h2>
+{% endif %}
+{% for month in (1..12) reversed %}
+{% if site.collated_posts[year][month] %}
+<h3>{{ month | to_month }}</h3>
+<ul class="archive-page">
+{% for day in (1..31) reversed %}
+{% if site.collated_posts[year][month][day] %}
+{% for post in site.collated_posts[year][month][day] reversed %}
+<li><a href='{{ site.base_url }}{{ post.url }}' title="{{ post.title }}">{{ post.title }}</a></li>
+{% endfor %}
+{% endif %}
+{% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+{% endfor %}
                                                                                                         
 							<ul>
 								<li><a href="#">July 2011</a></li>
