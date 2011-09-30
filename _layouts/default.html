@@ -147,7 +147,7 @@ else {
                                                         
 <ul>
   {% for post in site.posts %}
- {% unless post.date | date:"%b" == "September" %}
+ {% for post.date | date:"%b" == "September" %}
     {% unless post.next %}
       
             <h3>{{ post.date | date: '%Y' }}</h3>
@@ -163,7 +163,7 @@ else {
     <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
     
           
- {% endunless %}            
+ {% endfor %}            
       
     
   {% endfor %}
