@@ -146,7 +146,7 @@ else {
 							<h2>Archives</h2>
                                                         
 <ul>
-  {% for post in site.posts %}
+  {% for (post.date | date:"%b" == "September") in site.posts %}
  
     {% unless post.next %}
       {% if post.date | date:"%b" == "September" %} 
