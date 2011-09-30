@@ -148,7 +148,7 @@ else {
 <ul>
   {% for post in site.posts %}
  
-    {% unless post.next && (post.date | date:"%b" == "September") %}
+    {% unless post.next AND (post.date | date:"%b" == "September") %}
       
             <h3>{{ post.date | date: '%Y' }}</h3>
           {% else %}
