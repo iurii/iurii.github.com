@@ -149,6 +149,7 @@ else {
   {% for post in site.posts %}
 
     {% unless post.next %}
+       {% if post.date | date:"%b" == "September" %}
             <h3>{{ post.date | date: '%Y' }}</h3>
           {% else %}
             {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -160,9 +161,9 @@ else {
 
     <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
     
-          {% if post.date | date:"%b" == "September" %}
-                 ##### HOHOHOHO
-          {% endif %}
+          
+              
+       {% endif %}
     
   {% endfor %}
 </ul>
