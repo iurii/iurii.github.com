@@ -147,18 +147,13 @@ else {
                                                         
 <ul>
   {% for post in site.posts %}
-
-    {% unless post.next %}
-      {% capture cmonth %}September}}{% endcapture %}
-            <h3>{{ post.date | date: '%Y' }}</h3>
-          {% else %}
-            {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-            {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-            {% if year != nyear %}
-              <h3>{{ post.date | date: '%Y' }}</h3>
-            {% endif %}
-
-    {% endunless %}
+	{% capture cmonth %}September}}{% endcapture %}
+	{% unless lmonth == cmonth %}
+		{% unless forloop.first %}</ul>{% endunless %}
+		<h3>{{ cmonth }} 2011}}</h3>
+		<ul class="archive">
+		{% assign lmonth = cmonth %}
+	{% endunless %}
 
     <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
     
