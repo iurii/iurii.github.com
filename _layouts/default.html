@@ -144,29 +144,6 @@ else {
 						</li>
 						<li>
 							<h2>Archives</h2>
-                                                        
-<ul>
-  {% for post in site.posts%}
-
-    {% unless post.next %}
-      
-            <h3>{{ post.date | date: '%Y' }}</h3>
-          {% else %}
-          
-            {% capture month %}September{% endcapture %}
-    <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endunless %}
-
-
-    
-          
-              
-      
-    
-  {% endfor %}
-</ul>
-
-
 
 							<ul>
 								<li><a href="#">July 2011</a></li>
