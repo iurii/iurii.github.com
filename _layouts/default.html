@@ -165,7 +165,7 @@ else {
       {% endif %}
     {% endunless %}
 {% if post.date | date:'%b' == 'Sep1' %}
-
+{{ month }}
     <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endif %}
   {% endfor %}
