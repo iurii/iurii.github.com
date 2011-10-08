@@ -155,7 +155,7 @@ else {
  {% capture cmonth %}{{ post.date | date: "%B" }}{% endcapture %}
  {% unless lmonth == cmonth %}
  {% unless forloop.first %}</ul>{% endunless %}
- <h3>{{ cmonth }} {{ post.date | date: "%Y" }}</h3>
+{{ cmonth }} {{ post.date | date: "%Y" }}
  <ul class="archive">
  {% assign lmonth = cmonth %}
  {% endunless %}
