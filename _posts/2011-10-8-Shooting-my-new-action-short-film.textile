@@ -1,0 +1,75 @@
+---
+layout: post
+title: Shooting my new action short film
+date: 2011-10-08 12:18:00
+categories :
+- photos
+- shooting
+---
+
+h1. {{ page.title }}
+
+p(meta). 8 October 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/me_stick_550.jpg" />
+
+As millions of my fans may still remember, in May I finished my <a href="http://v.youku.com/v_show/id_XMjY0MjYxMDAw.html">first video</a>, where I was swinging nunchaku and throwing cigarettes.
+Back then, it took about 3 hours to shoot all the scenes, the shooting itself was very tiresome and the result was "ok" as for the first time, yet not enough as for the cool fight (especially taking into consideration the fact, that I was fighting with myself).
+And so, recently I felt my life was loosing its meaning, as I was desperately travelling along China to appear in another show - the product of other people, wasting my time and money.
+The plan to shoot something of my own began taking shape.
+It was obvious, that I wouldn't make it with only one cameraman. While I was looking for a cameraman and a fighter, I was living in a world of fights, I was imagining them, making sketches on the paper, and in the end it would turn out that I wouldn't shoot even the half of all my ideas.
+
+There was a whole bunch of problems, awaiting to be solved, complicated by the Chinese National Day and lots of staff being on vacation.
+
+1) Find the cameraman, get the camera
+2) Find an actor able to fight
+3) Find a place
+4) Get some protecting gears
+5) Prepare artificial blood
+6) Buy sticks, saw, glue, fishing line, couple of stools (in the end we still didn't crash them)
+7) Buy uniform for security
+8) Find a make-up artist
+9) Organize everyone and pray for good weather
+10) Pray that the door to the roof would be opened (the shooting took place on the roof of the building where I work)
+11) Pray that angry guards won't come and make us leave. I even prepared money for a bribe (in the end there was a guard who saw us, but he was very friendly)
+
+Typhoon was here in Shenzhen last week, so the sky was dim during all the holidays, sometimes the wind was increasing its strengh enough to pull out couple of trees, but in general it was a very civillized typhoon, aftereffects of which were still making us postpone the day of shooting.
+
+At Saturday, when I was just going to buy the uniform for a security, I needed to ask the measurements of the actor. And he simply wanished. For a day. I started searching the other actor, when suddenly he appeared again, so I continued preparation.
+I spent hours to find wooden stools, which in the end weren't crashed and were used for sitting only.
+I alwo found a place where I could by some chicken blood, yet we didn't use that blood.
+I prepared artificial blood mixing anti-cough syrop and red dye, still it didn't look as real as I wanted. I spent hours experimenting with colors and even red ink, which my tongue, who got red, didn't appreciate.
+
+Everyday I woke up in the morning, was looking at the sky and guessing if it will or not be raining. I was waking up in the middle of the night, still trying to guess, trying to find the Moon and the starts, but everything was in dim.
+Thus Tuesday and Wednesday passed, we postponed the shooting two times, so we had to find another make-up artist, as the one we hired in the beginning couldn't make it.
+
+Twenty times per day I was checking weather forecast. As always, it never came true, the forecast was alwasy showing sun the next day, and the next day there were clouds again. I understood that either we shoot now, either we never shoot. Besides, the actor was going to leave Shenzhen in a week, so there was no chance of shooting the film the orher week.
+Adding up the fact, that starting from Saturday we would have 7-day work week, one would understand that we had to forget about the idea, or shoot inspite of the weather.
+
+That day, I, as usual, wrote evebody an SMS, yet this time is was a happy one "we're gonna shoot today". This phrase was echoed in my brains just like "today we're going to reach the summit". No wonder, as I was thinking about this film for about two weeks.
+
+Two days before we found out, that the camera D5000, which I borrowed from my boss, didn't have auto-focus during shootig video.
+Damn. Back than I thought it might be the end, but the thought about renting another camera give me the hope. Finally, it was supposed that on the day of shooting, cameraman would rent the camera for about 300 RMB.
+I asked him three times if the camera supports slow-motion, to find out there's no slow-motion in the camera he rented. I still don't know if it's possible to add slow-mo effect during post-processing of the video.
+
+I thought we would make it in 3-4 hours, how wrong I was. We barely took any pauses during shooting, the time was passing quickly, along with first 3 hours of shooting. At 13:00 o'clock we finished only the first part of the fight. During the fourth hour of shooting my ideas of making flips, sommersaults and ground fighting started to melt. All those things should and must be shot only when you're fresh and not tired, otherwise it's easy to get injured.
+Besides, we had no time. Black clouds were floating just above us, yet not raining, and it was cool. Nobody would want to go on shooting the next day. Because of the danger of rain I was even considering the indoor shooting. Indoor would mean necessity of lights - more headache, which I didn't want, so the decision to shoot outside was right, as our non-stop shooting proved.
+
+Some scenes were shot 10 and more times, at least 5 times each - cause even if you did everything right, the partner also needs to do everything right, and it should look realistic. When you did everything right, you still need to shoot the scene from different angles.
+
+During the shooting I got my forehead scratched with a stick, my hand was striked at the same place two times. Soon I couldn't see the bruise though, as our skin went red because of the sun, which was behind the clouds, yet unmerciful to our skin. By the evening I understood we won't be able to shoot everything we wanted, so we changed a bit scenario and finished the shooting.
+
+During the shooting I realized I need to work more on the feeling of distance. I realized the one shouldn't be jeallous about Jackie Chan's or Donnie Yen's fame. After shooting for 8 hours we'll probably have about 40-50 seconds of actual fight, we were shooting for only one day. Now I understand, how much it takes to shoot a fight similar to <a href="http://v.youku.com/v_show/id_XNzMwNjU0OA==.html">this one</a>. It's not one or two days. And you need to fight every day for at least 8 hours.
+
+At the end it started raining. We hurried to finish the shooting and get our stuff packed. I stayed at the roof for a while to enjoy loneliness and breakthrough. There was a million reasons to give up. I wouldn't have head-ache, wouldn't be deadly tired. And yet the ideas came into life. Now I need to do a lot of post-processing job and add some effects, proper sounds. I will pray for ability to add for slow-motion effects to the fight.
+Now I can't even look at guards, even at my own clothes, because I saw nothing but that blue shirt during the whole shooting.
+So now it's time to process the video, which might take more than a week to finish.
+
+Never be jeallous about fame of Chinese action movie stars. It's a hell of a work, and these people are stars deservedly - not everybody is capable of playing a role being deadly tired during shooting fights.
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/me_nunchaku_guard_550.jpg" />
+
+
+
+
+
