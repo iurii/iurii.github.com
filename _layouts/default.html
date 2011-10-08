@@ -156,11 +156,11 @@ else {
  {% unless lmonth == cmonth %}
  {% unless forloop.first %}</ul>{% endunless %}
 {{ cmonth }} {{ post.date | date: "%Y" }}
- <ul class="archive">
+ <ul>
  {% assign lmonth = cmonth %}
  {% endunless %}
  {% if post.date | date:"%b" == "September" %} 
- <li><span>{{ post.date | date: "%d" }}</span> <a href="{{ post.link_url }}">{{ post.title }}</a> <a href="{{ post.url }}">&#8734;</a></li>
+ <a href="{{ post.link_url }}">{{ post.title }}</a> <a href="{{ post.url }}">&#8734;</a></li>
  {% else %}
 
  {% endif %}
