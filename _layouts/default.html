@@ -153,12 +153,12 @@ else {
                                                         
  {% for post in site.posts %}
  {% capture cmonth %}"September{% endcapture %}
- {% unless lmonth == "September" %}
+
  {% unless forloop.first %}</ul>{% endunless %}
 {{ September }} {{ post.date | date: "%Y" }}
  <ul>
- {% assign lmonth = cmonth %}
- {% endunless %}
+ {% assign lmonth = "September" %}
+ 
  {% if post.date | date:"%b" == "September" %} 
  <a href="{{ post.link_url }}">{{ post.title }}</a> <a href="{{ post.url }}">&#8734;</a></li>
  {% else %}
