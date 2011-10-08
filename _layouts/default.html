@@ -152,7 +152,7 @@ else {
 							</ul>
                                                         
  {% for post in site.posts %}
- {% capture cmonth %}{{ post.date | date: "%B" }}{% endcapture %}
+ {% capture cmonth %}{{ post.date | date: "%B" == "September" }}{% endcapture %}
  {% unless lmonth == "September" %}
  {% unless forloop.first %}</ul>{% endunless %}
 {{ cmonth }} {{ post.date | date: "%Y" }}
