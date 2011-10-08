@@ -150,6 +150,25 @@ else {
 								<li><a href="#">June 2011</a></li>
 								<li><a href="#">May 2011</a></li>
 							</ul>
+                                                        
+ {% for post in site.posts %}
+ {% capture cmonth %}{{ post.date | date: "%B" }}{% endcapture %}
+ {% unless lmonth == cmonth %}
+ {% unless forloop.first %}</ul>{% endunless %}
+ <h3>{{ cmonth }} {{ post.date | date: "%Y" }}</h3>
+ <ul class="archive">
+ {% assign lmonth = cmonth %}
+ {% endunless %}
+ {% if post.date | date:"%b" == "September" %} 
+ <li><span>{{ post.date | date: "%d" }}</span> <a href="{{ post.link_url }}">{{ post.title }}</a> <a href="{{ post.url }}">&#8734;</a></li>
+ {% else %}
+
+ {% endif %}
+ {% endfor %}
+ </ul>
+                                                        
+                                                        
+                                                        
 						</li>
 						<li>
 							<h2>Links</h2>
