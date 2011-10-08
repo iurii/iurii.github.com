@@ -151,7 +151,7 @@ else {
 								<li><a href="#">May 2011</a></li>
 							</ul>
                                                         
- {% for post in site.posts %}
+ {% for post in site.posts[2011]["September"] %}
  {% capture cmonth %}"September{% endcapture %}
 
  {% unless forloop.first %}</ul>{% endunless %}
