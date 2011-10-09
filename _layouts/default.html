@@ -154,7 +154,7 @@ else {
  <ul>
 
 
- {% for post in site.posts %}{% if post.date | date_to_string != "29 Sep 2011" %}
+ {% for post in site.posts %}{% if post.date | date: '%Y == "2010" %}
 
    {% unless post.next %}
      <h3>{{ post.date | date: '%Y' }}</h3>
@@ -167,7 +167,7 @@ else {
      {% endif %}
    {% endunless %}
 
-{% if post.date | date_to_string != "29 Sep 2011" %}
+{% if post.date | date: '%Y == "2010" %}
    <li>{{ post.date | date_to_string | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endif %}
    
