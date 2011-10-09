@@ -21,7 +21,7 @@ title: Yuriy Palamarchuk
       {% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
       {% capture nmonth %}{{ post.next.date | date: '%B' }}{% endcapture %}
       {% if month != nmonth %}
-        <br /><h3>{{ post.date | date: '%B' }}</h3><br />
+        <br /><h3>{{ post.date | date: '%B' }}</h3>
       {% endif %}
     {% endunless %}
 
