@@ -17,7 +17,13 @@ title: Yuriy Palamarchuk
       {% if year != nyear %}
         <h3>{{ post.date | date: '%Y' }}</h3>
       {% endif %}
-    {% endunless %}
+      
+      {% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
+      {% capture nmonth %}{{ post.next.date | date: '%B' }}{% endcapture %}
+      {% if month != nmonth %}
+        <h3>{{ post.date | date: '%B' }}</h3>
+      {% endif %}
+      
 
     <li>{{ post.date | date:"%B" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
