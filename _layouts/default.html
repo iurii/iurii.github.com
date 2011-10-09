@@ -167,8 +167,10 @@ else {
      {% endif %}
    {% endunless %}
 
-
+{% if post.date | date_to_string == "29 Sep 2011" %}
    <li>{{ post.date | date_to_string | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endif %}
+   
 {% endif %}
  {% endfor %}
 </ul>
