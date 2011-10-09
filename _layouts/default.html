@@ -161,15 +161,17 @@ else {
    {% else %}
      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-     {% capture month %}Sep{% endcapture %}
+     {% capture month %}{{ post.next.date | date: '%b' | date_to_string }}{% endcapture %}
      {% if year != nyear %}
        <h3>{{ post.date | date: '%Y' }}</h3>
      {% endif %}
+     {% if month == "Sep" %}
+           <li>{{ post.date | date_to_string | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+     {% endif %}
+     
    {% endunless %}
 
-{% if post.date | date: '%Y' == 2010 %}
-   <li>{{ post.date | date_to_string | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endif %}
+
    
 {% endif %}
  {% endfor %}
