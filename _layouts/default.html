@@ -156,7 +156,7 @@ else {
 
  {% for post in site.posts %}{% if post.date | date: '%Y' == 2010 %}
 
-   {% unless post.next %}
+   {% unless post.next.date: '%Y' == 2010 %}
      <h3>{{ post.date | date: '%Y' }}</h3>
    {% else %}
      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
