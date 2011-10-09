@@ -5,6 +5,7 @@ title: Yuriy Palamarchuk
 <div>
     
 <h2>Archives</h2>
+<br />
 <ul>
   {% for post in site.posts %}
 
@@ -18,7 +19,7 @@ title: Yuriy Palamarchuk
       {% endif %}
     {% endunless %}
 
-    <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li>{{ post.date | date:"%B" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>       
 
