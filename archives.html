@@ -21,11 +21,11 @@ title: Yuriy Palamarchuk
       {% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
       {% capture nmonth %}{{ post.next.date | date: '%B' }}{% endcapture %}
       {% if month != nmonth %}
-        <h3>{{ post.date | date: '%B' }}</h3>
+        <h3>{{ post.date | date: '%B' }}</h3> </br>
       {% endif %}
     {% endunless %}
 
-    <li>{{ post.date | date:"%B" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>       
 
