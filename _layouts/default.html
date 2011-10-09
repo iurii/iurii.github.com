@@ -152,12 +152,9 @@ else {
 							</ul>
  
  <ul>
-   {% assign month = 'Sep' %}
-{% if 'Sep1' == month %}
-month
-{% endif %}
 
- {% for post in site.posts %}{% if post.date | date_to_string | date:"%b" == month %}
+
+ {% for post in site.posts %}{% if 1 == 2 %}
 
    {% unless post.next %}
      <h3>{{ post.date | date: '%Y' }}</h3>
