@@ -1,0 +1,33 @@
+---
+layout: default
+title: Yuriy Palamarchuk
+---
+<div>
+    
+ <h2>Archives for May 2011</h2>
+ <ul>
+
+ {% for post in site.posts %}
+
+   {% unless post.next %}
+     <h3>{{ post.date | date: '%Y' }}</h3>
+   {% else %}
+     {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+     {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+     {% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
+     {% if year != nyear %}
+       <h3>{{ post.date | date: '%Y' }}</h3>
+     {% endif %}
+     {% if month == "May" %}
+           <li>{{ post.date | date_to_string | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+     {% endif %}
+     
+   {% endunless %}
+
+ {% endfor %}
+</ul>
+</div>
+
+
+
+
