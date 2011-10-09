@@ -154,7 +154,7 @@ else {
  <ul>
 
 
- {% for post in site.posts %}{% if post.date | date: '%Y' == 2010 %}
+ {% for post in site.posts %}
 
    {% unless post.next.date: '%Y' == "2010" %}
      <h3>{{ post.date | date: '%Y' }}</h3>
@@ -173,7 +173,7 @@ else {
 
 
    
-{% endif %}
+
  {% endfor %}
 </ul>
                                                         
