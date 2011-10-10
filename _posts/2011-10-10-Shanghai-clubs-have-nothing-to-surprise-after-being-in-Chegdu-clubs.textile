@@ -1,0 +1,21 @@
+---
+layout: post
+title: Shanghai clubs can't surprise after being in Chengdu clubs
+date: 2011-10-10 12:00:00
+categories :
+- photos
+- cities
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 October 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/shanghai_club1_550.jpg" />
+
+Chengdu clubs are different. Starting from the interior design and ending with girls. The best clubs I've ever been to. Lots of pretty pretty girls.
+
+
+
+
+
