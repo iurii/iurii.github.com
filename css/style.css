@@ -284,6 +284,10 @@ a:hover {
 	padding: 0px 0px 0px 0px;
 }
 
+#content a {
+    text-decoration: underline;
+}
+
 .post {
 	margin-bottom: 40px;
 	border-bottom: 1px dotted #E7E2DC;
