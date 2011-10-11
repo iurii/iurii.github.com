@@ -43,6 +43,7 @@ a {
 
 a:hover {
 	text-decoration: underline;
+        color: #ACACAC;
 }
 
 #wrapper {
@@ -415,7 +416,6 @@ a:hover {
 
 #sidebar a:hover {
 	text-decoration: underline;
-	color: #ACACAC;
 }
 
 /* Calendar */
