@@ -290,8 +290,8 @@ a:hover {
 }
 
 #content a:hover {
-    color: #ACACAC;
     text-decoration: underline;
+    color: #030303;
    
 }
 
