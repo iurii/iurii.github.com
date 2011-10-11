@@ -16,6 +16,7 @@ My part starts at 21:45
 <object width="541" height="450"><param name="allowFullScreen" value="true"><param name="flashVars" value="id=1364252" /><param name="movie" value="http://www.letv.com/player/FlashPlayer.swf" /><embed src="http://www.letv.com/player/FlashPlayer.swf" flashVars="id=1364252" width="541" height="450" allowFullScreen="true" type="application/x-shockwave-flash" /></object>
 
 It was broadcasted on 四川卫视 on the 2nd of October 2011. The theme was "I'm not a foreigner" - about foreigners who find themselves pretty comfortable living in China and learning the culture and language of this legendary country.
+Another link of the show: <a href="http://www.letv.com/ptv/vplay/1364252.html">http://www.letv.com/ptv/vplay/1364252.html</a>
 
 
 
