@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to get yourself prepared in case of break up
+title: How to get yourself prepared in case of break up with your girlfriend.
 date: 2011-10-12 11:30:00
 categories :
 - girls
@@ -12,8 +12,6 @@ h1. {{ page.title }}
 p(meta). 12 October 2011 - Shenzhen
 
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/girl_run.jpg" />
-
-How to get yourself prepared in case of break up with your girlfriend.
 
 Everybody knows what is it, when those memories flush into your brains, everything you had, including how she taught you what kind of milk to buy,
 what kind of washing liquid to use. Your clothes, which you were once picking together, are still hanging in your wardrobe, and in the fridge there's still that candy she didn't ate up.
