@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why it is almost impossible to get salary raise
-date: 2011-10-17 17:20:00
+date: 2011-10-17 17:40:00
 categories :
 - job
 ---
