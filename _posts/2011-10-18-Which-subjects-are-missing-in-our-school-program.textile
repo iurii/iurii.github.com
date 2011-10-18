@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Which subjects are missing in our school program
+title: Which subjects are missing in our school program ?
 date: 2011-10-18 10:40:00
 categories :
 - study
