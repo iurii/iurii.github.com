@@ -14,7 +14,7 @@ p(meta). 20 October 2011 - Shenzhen
 
 Taken from the interview with a Chinese girl, who lived in Russia for about half of year:
 
-1. Russians are more lazy, Chinese are more hard-woking <b>*</b>
+1. Russians are more lazy, Chinese are more hard-woking <b>\*</b>
 2. Russians are more civilized, than Chinese (meaning Russians have more artists, musicians people of art)
 3. Drivers give way to pedestrians, as well as to other drivers, while in China, even if you're on a pedestrian crossing - you have no rights at all.
 4. Russian drivers don't honk as often and as much, as Chinese drivers do.
