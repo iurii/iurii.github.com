@@ -12,24 +12,19 @@ h1. {{ page.title }}
 p(meta). 21 October 2011 - Shenzhen
 
 I love everything about TV, shooting, movies and the stuff, so I was lucky to get to the <a href="http://www.hkstv.tv/">HKSTV</a> studio and witness the process of making news by myself.
-
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/hks1_550.jpg" />
 
 I'd like to mention, that being a TV host is a hard work. Not as easy, as lots of people mistakenly think. Not to mention that sometimes you have to get up at 4-5 AM, not to mention high pressure and responsibility. Sometimes you have to sleep in the studio.
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/hks9_550.jpg" />
 
 During make-up, the tv host usually reads the script, to get familiar with the topics she's going to talk about.
-
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/hks2_550.jpg" />
 
 The white sheet of paper is used to adjust the camera.
-
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/hks3_550.jpg" />
 
 All set, start the broadcast!
-
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/hks5_550.jpg" />
-
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/hks6_550.jpg" />
 
 It sometimes takes several shots to get the result we seen on the TV screen.
@@ -41,7 +36,6 @@ Then you need to do some post-processing of the footage.
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/hks10_550.jpg" />
 
 When everything is done, everyone can go home.
-
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/hks7_550.jpg" />
 
 
