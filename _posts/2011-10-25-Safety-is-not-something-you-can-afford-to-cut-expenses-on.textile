@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Safety is not something you can afford to cut expenses on
-date: 2011-10-24 14:01:00
+date: 2011-10-25 14:55:00
 categories :
 - show
 - photos
@@ -9,7 +9,7 @@ categories :
 
 h1. {{ page.title }}
 
-p(meta). 24 October 2011 - Shenzhen
+p(meta). 25 October 2011 - Shenzhen
 
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/bike_lights.jpg" />
 
