@@ -1,0 +1,35 @@
+---
+layout: post
+title: Safety is not something you can afford to cut expenses on
+date: 2011-10-24 14:01:00
+categories :
+- show
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 24 October 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/bike_lights.jpg" />
+
+For example these new safety lights for my beloved Haro - they cost couple of bucks. Yet they add a lot to your safety during night riding. One could actually come up with a bunch of good examples of unworthy money saving, which causes potential danger:
+
+1) Walking in the night through suburbs, instead of taking taxi
+2) Getting yourself new tires, instead of saving money on using old ones
+3) Buying yourself a new door with a good lock, instead of hoping noone will break in
+4) Saving money on high-quality healthy food, instead of spending money and time on doctors
+5) Buying yourself health security, rather than in case of emergency have no money for doctors.
+
+Actually I also changed my brakes and fixed the one on the rear, which appeared to be totally broken. Now I have this awesome feeling of riding the bike and being the king of the road. 
+
+
+
+
+
+
+
+
+
+
+
