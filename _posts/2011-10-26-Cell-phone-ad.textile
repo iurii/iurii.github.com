@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I like about shooting ads and movies
-date: 2011-10-26 14:55:00
+date: 2011-10-26 23:05:00
 categories :
 - show
 - photos
