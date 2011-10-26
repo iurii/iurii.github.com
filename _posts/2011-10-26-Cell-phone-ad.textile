@@ -1,0 +1,22 @@
+---
+layout: post
+title: What I like about shooting ads and movies
+date: 2011-10-26 14:55:00
+categories :
+- show
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 October 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/jungle_550.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/worker_550.jpg" />
+
+One of advantages of shooting movies or any other stuff where you need to play someone, is that you can actually try something new - try a new profession, or a new adventure.
+I experienced being worker, as well as a lost guy in the jungles. It's fun. Jackie Chan was saying the same thing: "When I'm on the screen, I can be anyone - a rich guy, a policeman, lawyer".
+
+
+
+
