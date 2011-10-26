@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Safety is not something you can afford to cut expenses on
+title: Safety is not something can cut expenses on
 date: 2011-10-25 14:55:00
 categories :
 - show
