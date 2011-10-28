@@ -2,6 +2,8 @@
 layout: post
 title: A blog in Chinese about our show 天天向上
 date: 2011-07-08 17:15:00 
+categories :
+- show
 ---
 
 h1. {{ page.title }}

@@ -2,6 +2,8 @@
 layout: post
 title: Couple of tv shows on Shenzhen TV. Casting for a tv commercial.
 date: 2011-06-5 14:00:00 
+categories :
+- show
 ---
 
 h1. {{ page.title }}

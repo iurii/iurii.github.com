@@ -2,6 +2,8 @@
 layout: post
 title: Shooting a TV commercial for an electronic goods plant in Huizhou city
 date: 2011-06-10 12:17:00 
+categories :
+- show
 ---
 
 h1. {{ page.title }}

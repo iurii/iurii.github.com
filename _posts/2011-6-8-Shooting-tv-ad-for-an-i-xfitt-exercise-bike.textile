@@ -2,6 +2,8 @@
 layout: post
 title: Shooting a tv ad for an i-xfitt exercise bike
 date: 2011-06-8 10:12:00 
+categories :
+- show
 ---
 
 h1. {{ page.title }}

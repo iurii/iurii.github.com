@@ -2,6 +2,8 @@
 layout: post
 title: I appear on the TV show "Da Yule Jia" / 我参加的“大娱乐家”昨晚上了电视
 date: 2011-06-08 11:41:00 
+categories :
+- show
 ---
 
 h1. {{ page.title }}

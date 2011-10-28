@@ -1,7 +1,9 @@
 ---
 layout: post
 title: I'm on the TV show / 我参加的“夺爱大冒险”
-date: 2011-05-30 22:55:00 
+date: 2011-05-30 22:55:00
+categories :
+- show
 ---
 
 h1. {{ page.title }}

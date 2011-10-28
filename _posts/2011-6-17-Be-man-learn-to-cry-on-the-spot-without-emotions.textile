@@ -2,6 +2,8 @@
 layout: post
 title: Be man - learn to cry on the spot without emotions
 date: 2011-06-17 14:40:00 
+categories :
+- show
 ---
 
 h1. {{ page.title }}

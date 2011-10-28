@@ -2,6 +2,8 @@
 layout: post
 title: Shooting in the office, shooting at the MMA session
 date: 2011-06-21 17:32:00 
+categories :
+- show
 ---
 
 h1. {{ page.title }}

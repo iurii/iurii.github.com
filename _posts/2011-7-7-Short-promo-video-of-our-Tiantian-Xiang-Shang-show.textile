@@ -2,6 +2,8 @@
 layout: post
 title: A short promo video of our 天天向上 show
 date: 2011-07-07 17:21:00 
+categories :
+- show
 ---
 
 h1. {{ page.title }}

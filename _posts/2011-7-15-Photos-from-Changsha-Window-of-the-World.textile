@@ -5,6 +5,7 @@ date: 2011-07-15 10:36:00
 categories :
 - park
 - photos
+- travelling
 ---
 
 h1. {{ page.title }}
