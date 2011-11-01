@@ -1,0 +1,30 @@
+---
+layout: post
+title: In Chinese intonation of the whole sentence is more important than the tones of a single word
+date: 2011-11-1 16:30:00
+categories :
+- girls
+- Chinese
+---
+
+h1. {{ page.title }}
+
+p(meta). 1 November 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Girl_night_550_2.jpg" />
+
+I have had this suspicious idea for a while now. I noticed that sometimes when I pronounce words with 100% "correct" tones I got misunderstood. Recently I started paying attention to my Chinese colleague, who speaks good Mandarin. She speaks over the phone with candidates for job positions of your company. At the end of each interview there usually comes a moment, when she says "到时候我们会通知你。。。" and so on. So I mentally prepared myself to shout out this 到时候 with the 4th tone(according to the books), when suddenly realize she didn't shout at all. In fact, she pronounced this 到时候 in a pretty low tone, and it sounded natural. Moreover, she emphasized with "correct" tones some words like 通知你.
+
+This is where I came up with the idea, that overly complicated analysis of all tones and attempt to follow them in 100% of cases makes them sound a bit not realistic, not as natural, as when Chinese speak. That's how we get that effect of formal speach we don't want to hear in normal life. It simply sounds weird, as long as you're not at the meeting or kidding with someone. For example, word like 东西 is pronounced with the 1-st and neutral tones, according to the rules. In real world you'd rather hear phrase 这个东西, where 这个 would be pronounced according to the rules, yet 东西 would sound lower and not emphasized, in opposite to the rules.
+
+Summing up all that, I'll show an example from English, which reflects what I just said about Chinese.
+When we say "This thing", we normally emphasize "this", or "thing". At the same time, every word has it's own emphasis - in the word "this", "i" would be emphasized, and the word "thing" would be emphasized the same way. If we pronounce both words according to the pronunciation written in the dictionary, it will sound weird, almost like you're scolding someone, or giving orders.
+
+The same story takes place when we talk in Chinese. So, what do we do? I believe, one should work more on the general picture of the sentence, where only some words are emphasized. Besides, getting rid of necessity to concentrate on every word's pronunciation, we free up the potential which can be put to improve general emphasis picture of the sentence. Again, it's necessary to learn to put in your head longer chunks of sentences, so that they start sounding as natural, as the short ones.
+P.S. One of the things which makes your Chinese sound lame has it roots in being lazy, pronouncing one part of the sentence, and being diligent, pronouncing the other part. This thing messes everything up, making the listener do the hard job, trying to analyze your assymetric speach. The ideal case is either be lazy during pronouncing the whole sentence, either do your best during the whole sentence.
+
+
+
+
+
+
