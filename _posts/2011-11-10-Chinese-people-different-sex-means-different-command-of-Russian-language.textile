@@ -1,0 +1,32 @@
+---
+layout: post
+title: Chinese people: different sex means different command of Russian language.
+date: 2011-11-10 17:00:00
+categories :
+- Chinese
+- study
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 November 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/girls_550.jpg" />
+
+At first I could not figure out what's wrong. Why, why talking to Chinese girls via audio calls is much more pleasant, than talking to Chinese guys ?
+First I thought it might be just because I'm a guy and naturally am more interested in opposite sex.
+Surprisingly, my college - Russian girl, who sometimes holds interviewes, also noticed that talking to girls is way more pleasant, than talking to guys.
+
+We started analysing:
+
+1) Guys study worse, as they play computer games more (they admit it themselves). Russian, consequently, is worse.
+2) Girls study better, because they barely play any games (and they say, that guys often play games). Russian is, consequently, better.
+3) Guys of 28-30+ years old sound like 50 year old Russian rednecks from the village. They seem to have no manners at all (it all grates on your ears, making you feel like you're at some Russian market).
+4) Guys totally lack any emotions. They sound like robots answering your question with only 1 sentence. Talking to them is unbearable, as you have to force them to talk. Seems they have some kind of glamour concept (what for?), which reflects upon all of their laconic, dry, uninteresting answers. As If you were talking to a wall.
+
+So I just want to advise those of you, who is going to hire Chinese translators: hire girls. Their oral abilities (as well as written) is way better, than those of guys.
+
+P.S. I talked to a friend, who is married to a Chinese guy. That Chinese guy says that Chinese guys after 30 are usually all like that - talk very little, with no emotions, no expressions. If you're in China, I advise you to take a good look at Chinese guys - try to spot, if they really do have that boring unemotional facial expression. Who knows, maybe outside appearance in linked to inner wolrd and thus reflects it. Make your judgement and be prepared.
+
+
+
