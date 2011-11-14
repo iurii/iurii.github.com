@@ -1,0 +1,18 @@
+---
+layout: post
+title: Gracis, it's for you
+date: 2011-11-14 17:52:00
+categories :
+- girls
+---
+
+h1. {{ page.title }}
+
+p(meta). 14 November 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Gracis_pencil_550.jpg" />
+
+Of of the most beautiful Chinese girls I've ever seen.
+
+
+
