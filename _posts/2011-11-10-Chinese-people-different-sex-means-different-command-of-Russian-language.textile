@@ -12,7 +12,6 @@ h1. {{ page.title }}
 p(meta). 10 November 2011 - Shenzhen
 
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/girls_550.jpg" />
-
 At first I could not figure out what's wrong. Why, why talking to Chinese girls via audio calls is much more pleasant, than talking to Chinese guys ?
 First I thought it might be just because I'm a guy and naturally am more interested in opposite sex.
 Surprisingly, my college - Russian girl, who sometimes holds interviewes, also noticed that talking to girls is way more pleasant, than talking to guys.
