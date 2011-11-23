@@ -1,0 +1,18 @@
+---
+layout: post
+title: Using MIDI-USB cable to record music from piano to computer
+date: 2011-11-23 15:30:00
+categories :
+- music
+- video
+- piano
+---
+
+h1. {{ page.title }}
+
+p(meta). 23 November 2011 - Shenzhen
+
+<embed src="http://player.youku.com/player.php/sid/XMzI1MjIzNTky/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+The link to the video is <a href="http://v.youku.com/v_show/id_XMzI1MjIzNTky.html">here</a>.
+I installed Pianissimo - very easy to use software which allowed to record music from my Yamaha 3100 to my notebook using MIDI-USB cable.
+The programm allows easy convertion to MIDI, WAV, MP3 formats, so I recommend it to everyone. For better sound quality and less noise I also recommend you to buy a better MIDI-USB cable. 
