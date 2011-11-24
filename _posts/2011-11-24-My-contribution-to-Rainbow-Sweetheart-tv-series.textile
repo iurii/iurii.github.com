@@ -1,0 +1,18 @@
+---
+layout: post
+title: My contribution to Rainbow Sweetheart (彩虹甜心) TV series
+date: 2011-11-24 16:15:00
+categories :
+- show
+- video
+---
+
+h1. {{ page.title }}
+
+p(meta). 24 November 2011 - Shenzhen
+
+<embed src="http://player.youku.com/player.php/sid/XMzE4NjQyMzQ0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+It's been a year (22nd of November 2010), since I took part in the "彩虹甜心". Only one minute on the TV, and it took half of day to shoot it - even though the director is well-known for shooting faster than others.
+My expression at the end is a bit inappropriate.
+
+Youtube version is <a href="http://www.youtube.com/watch?v=sVasXXqNcuY&t=8m40s">here</a>.
