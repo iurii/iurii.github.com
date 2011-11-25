@@ -1,0 +1,17 @@
+---
+layout: post
+title: Enjoy director's cut of my action short film "U之战"
+date: 2011-11-25 16:50:00
+categories :
+- show
+- video
+---
+
+h1. {{ page.title }}
+
+p(meta). 25 November 2011 - Shenzhen
+
+<embed src="http://player.youku.com/player.php/sid/XMzE3NTg1MTg0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+Link to the video is <a href="http://v.youku.com/v_show/id_XMzE3NTg1MTg0.html" target="_blank">here</a>.
+Director added some sound effects. Feels and sounds much better now. Though, ending in <a href="http://v.youku.com/v_show/id_XMzE4MjM5MjY0.html" target="_blank">my version</a> is still better.
+
