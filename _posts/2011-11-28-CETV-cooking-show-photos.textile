@@ -13,8 +13,7 @@ h1. {{ page.title }}
 
 p(meta). 28 November 2011 - Shenzhen
 
-The show will be broadcasted in December.
-Of course, first we had to put some make up.
+The show will be broadcasted in December. Of course, first we had to put some make up.
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/cetv_show_1_550.jpg" />
 Director and staff would prepare all we need for the show.
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/cetv_show_6_550.jpg" />
