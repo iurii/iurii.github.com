@@ -1,0 +1,20 @@
+---
+layout: post
+title: TV station worker
+date: 2011-11-30 17:18:00
+categories :
+- photos
+- Chinese
+- show
+---
+
+h1. {{ page.title }}
+
+p(meta). 30 November 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/cetv_show_3_sm-1.jpg" width="550px" />
+They look cool with all those wires and gadgets. 
+
+
+
+
