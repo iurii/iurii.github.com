@@ -1,0 +1,18 @@
+---
+layout: post
+title: Shenzhen Che Gong Miao (车公庙)
+date: 2011-12-1 17:55:00
+categories :
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 1 December 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/shenzhen_sm_1-2.jpg" width="550px" title="Shenzhen Che Gong Miao" alt="Shenzhen Che Gong Miao" />
+
+
+
+
+
