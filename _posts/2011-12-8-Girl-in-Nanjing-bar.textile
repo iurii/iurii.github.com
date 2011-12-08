@@ -1,0 +1,25 @@
+---
+layout: post
+title: Playing piano for a girl in Nanjing bar
+date: 2011-12-8 12:18:00
+categories :
+- girls
+- clubs
+- piano
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 8 December 2011 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Girl2_550.jpg" title="Pretty Chinese girl in Nanjing bar" alt="Pretty Chinese girl in Nanjing bar" />
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Girl_550.jpg" title="Pretty Chinese girl in Nanjing bar" alt="Pretty Chinese girl in Nanjing bar" />
+I met her in one of those bars with soft music (清吧), after recording the 非诚勿扰 tv show. Pretty girl, smart, likes fashion.
+
+I walked to the bar manager and asked if I can play some piano. The answer was "yes", so I played for her and for myself. When I was playing Numb - Linkin Park, one of musicians came buy and started improvising. It was so fun playing together. I felt that people care, that people listen to different music, and that they are open.  
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/me_piano_550.jpg" title="Playing piano in Nanjing bar" alt="Playing piano in Nanjing bar" />
+It was the first time I played piano in a bar. 26th of November.
+
