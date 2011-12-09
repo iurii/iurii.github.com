@@ -1,0 +1,18 @@
+---
+layout: post
+title: Flying Over - my new melody
+date: 2011-12-9 15:20:00
+categories :
+- piano
+- video
+- music
+---
+
+h1. {{ page.title }}
+
+p(meta). 9 December 2011 - Shenzhen
+
+<embed src="http://player.youku.com/player.php/sid/XMzMwNjQzNTk2/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+Youtube version is <a href="http://youtu.be/pBEmnm7zOzg" target="_blank">here</a>.
+
+
