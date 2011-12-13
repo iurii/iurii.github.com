@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taking Star Ferry in Hong Kong at Tsim Sha Tsui 
-date: 2011-13-9 16:07:00
+date: 2011-12-13 16:25:00
 categories :
 - video
 - cities
