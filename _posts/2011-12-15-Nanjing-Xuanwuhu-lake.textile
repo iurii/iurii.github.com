@@ -1,0 +1,39 @@
+---
+layout: post
+title: 17 pictures of Nanjing 玄武湖 lake
+date: 2011-12-15 11:27:00
+categories :
+- park
+- cities
+- travelling
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 15 December 2011 - Shenzhen
+
+The pictures were shot on the 27th of November in 南京 at 玄武湖 lake.
+I took an electric-driven boat for something like 60 RMB per hour, which is very cheap. And is good, because you don't need to pedal it, so you can do shots without stops. The pedal driven catamaran costs only 40 RMB per hour.
+
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing12_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing12_550.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing11_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing11_550.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing9_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing9_550.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing7_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing7_550.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing4_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing4_550.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing5_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing5_sm.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing3_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing3_550.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing8_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing8_550.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing1_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing1_550.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing2_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing2_550.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing13_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing13_550.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing14_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing14_550.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing15_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing15_550.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing16_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing16_550.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing18_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing18_sm.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing20_550.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing20_550.jpg" /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing6_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing6_550.jpg" /></a>
+This 玄武湖 lake is one of the most beautiful lakes I ever seen. It's even more amazing at <a href="http://youli.co/photos/cities/show/2011/09/29/Ten-pictures-of-Nanjing-city.html" target="_blank">night</a>.
+
+
+
