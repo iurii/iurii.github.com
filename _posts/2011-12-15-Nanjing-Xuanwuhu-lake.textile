@@ -14,7 +14,7 @@ h1. {{ page.title }}
 p(meta). 15 December 2011 - Shenzhen
 
 The pictures were shot on the 27th of November in 南京 at 玄武湖 lake.
-I took an electric-driven boat for something like 60 RMB per hour, which is very cheap. And is good, because you don't need to pedal it, so you can do shots without stops. The pedal driven catamaran costs only 40 RMB per hour. The pictures are clickable.
+I took an electric-driven boat for something like 60 RMB per hour, which is very cheap and is good, because you don't need to pedal it, so you can do shots without stops. The pedal driven catamaran costs only 40 RMB per hour. The pictures are clickable.
 
 <a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing12_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing12_550.jpg" border="0"/></a>
 <a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing11_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing11_550.jpg" border="0"/></a>
@@ -33,6 +33,7 @@ I took an electric-driven boat for something like 60 RMB per hour, which is very
 <a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing18_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing18_sm.jpg" border="0"/></a>
 <a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing20_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing20_550.jpg" border="0"/></a>
 <a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing6_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Nanjing6_550.jpg" border="0"/></a>
+The pictures are clickable.
 This 玄武湖 lake is one of the most beautiful lakes I ever seen. It's even more amazing at <a href="http://youli.co/photos/cities/show/2011/09/29/Ten-pictures-of-Nanjing-city.html" target="_blank">night</a>.
 
 
