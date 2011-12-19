@@ -1,0 +1,27 @@
+---
+layout: post
+title: Taking part in 非诚勿扰 show on 2011.12.17
+date: 2011-12-19 10:20:00
+categories :
+- show
+- videos
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 19 December 2011 - Shenzhen
+
+<embed src="http://www.jstv.com/vod/JSTVPlayerEdit.swf?vid=769052" mediatype="flash" allowscriptaccess="always" allowfullscreen="true" type="application/x-shockwave-flash" play="true" loop="true" menu="true" ignoreapd="1" height="345" width="400">
+Link to the video is <a href="http://www.jstv.com/c/ws/fcwr/201112/t20111217_697807.shtml" target="_blank">here</a>.<br />
+
+The good thing is that during the show I was able to bring up the topics
+of having serious look at work, yet not working and pretending you're working,
+inability of people to relax, and, well, some of that was cut, but hey.
+Among all of the 24 girls I liked very few. Girl #22 is pretty, kind and honest, so I picked her.
+Didn't know it's she who has children. Anyway, I'm even glad that nobody chose me.
+<br />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/me_nunchaku_show-1.jpg" />
+
+
+
