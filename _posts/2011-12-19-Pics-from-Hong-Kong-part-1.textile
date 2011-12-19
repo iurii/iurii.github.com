@@ -1,0 +1,36 @@
+---
+layout: post
+title: Pics from Hong Kong part 1
+date: 2011-12-19 16:33:00
+categories :
+- cities
+- travelling
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 19 December 2011 - Shenzhen
+
+Click on the photo to enlarge.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong_1_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong_1_550.jpg" border="0px"/></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong2_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong2_550.jpg" border="0px"/></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong3_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong3_550.jpg" border="0px"/></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong4_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong4_550.jpg" border="0px"/></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong5_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong5_550.jpg" border="0px"/></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong6_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong6_550.jpg" border="0px"/></a>
+December 10th, eclipse of the Moon.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong7_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong7_550.jpg" border="0px"/></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong8_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong8_550.jpg" border="0px"/></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong9_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong9_550.jpg" border="0px"/></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong11_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong11_550.jpg" border="0px"/></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong12_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong12_550.jpg" border="0px"/></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong13_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong13_550.jpg" border="0px"/></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong14_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong14_550.jpg" border="0px"/></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong15_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong15_550.jpg" border="0px"/></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong16_sm.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong16_550.jpg" border="0px"/></a>
+Click on the photo to enlarge.
+
+
+
+
