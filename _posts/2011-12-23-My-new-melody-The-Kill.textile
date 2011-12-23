@@ -1,13 +1,14 @@
 ---
 layout: post
 title: My new melody "The Kill"
-date: 2011-12-22 12:35:00
+date: 2011-12-23 12:35:00
 categories :
 - cities
 - travelling
 - piano
 - music
 - video
+- thoughts
 ---
 
 h1. {{ page.title }}
