@@ -1,0 +1,20 @@
+---
+layout: post
+title: My new melody to 5 Centimeters per Second
+date: 2012-1-4 9:25:00
+categories :
+- video
+- music
+- piano
+---
+
+h1. {{ page.title }}
+
+p(meta). 4 January 2012 - Shenzhen
+
+<embed src="http://player.youku.com/player.php/sid/XMzM5MjI0NzI4/v.swf" allowfullscreen="true" quality="high" width="480" height="400" align="middle" type="application/x-shockwave-flash"></embed>
+Youtube version is<a href="http://youtu.be/t7wTztq6E2Q" target="_blank">here</a>.
+
+Music is mine, pics from "5 Centimeters per Second". By the way, if you haven't watched this anime, you're not my friend anymore.
+People who create this kind of anime should be treated as holy people.
+
