@@ -1,0 +1,23 @@
+---
+layout: post
+title: I'm gonna get fired because of coming late 3 minutes
+date: 2012-1-5 11:30:00
+categories :
+- job
+---
+
+h1. {{ page.title }}
+
+p(meta). 5 January 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/me_canteen_sm.jpg" width="550px" />
+
+It was fun. Boss told me, my time limit for being late, which is 180 mins for 3 months is over, which means that according to
+company's regulations I should be dismissed. That is, being late for 3 minutes every day during 3 months I dismissed myself.
+Not to mention the fact, that I payed 1 RMB for every minute I was late and even got my points deducted, which all resulted in salary deduction.
+You might ask me why wouldn't I come earlier, well I'm gonna say it's not fucking Japan, to fire people for being late 3 minutes. In fact, for the first 6 months, working
+in the company, I was never late for a single minute.
+At the same time, it was so fun to watch the gloomy face of my boss, saying: "Ohh, I could accept this fact if the company fired you because of bad performance,
+but because of this! Discipline! Oh my..." And I was sitting like - "Hello! Are you out of your mind? You just said you have no claims about my performance at work,
+yet admit that I'm gonna get dismissed because of sometimes being late, that is because of stupid rules which you made up yourself". Well, we'll see where and how they're going to find a person, capable of dealing with: IT, translating(
+Chinese, English, Russian, Ukrainian), Yandex ads, HR (conducting interviews for the candidates), writing articles for the websites, taking pictures of the products! Anyway, my life is going to change now, and that's wonderful.
