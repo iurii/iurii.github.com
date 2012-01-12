@@ -9,7 +9,7 @@ categories :
 
 h1. {{ page.title }}
 
-p(meta). 5 January 2012 - Shenzhen
+p(meta). 12 January 2012 - Shenzhen
 
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Cakes_food_550.jpg" />
 Among all the variety of Chinese cakes, the best are the fruit ones. There are pieces of real fruits inside, covered with white sweet cream. Fruits are also used for decorations, though, sometimes one might suspect they add some chemical ingredients to them. Concerning the other parameters, Chinese cakes are, of course, not as good as Russian ones - you won't get the same pleasure when biting, smelling fresh chocholate on the top of it, and you won't get that taste - probably, because of the shortcakes, which are more like fluffy bread without taste, which main function is to fill as much space as possible and hold those tons of white cream on the top. At the same time it's fairly easy to order the cake of any sizes, shapes, signs and filling. The service is fast: you pay in the morning, get the cake during lunch.
