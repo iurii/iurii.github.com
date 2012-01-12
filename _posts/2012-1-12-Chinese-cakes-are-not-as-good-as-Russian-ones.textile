@@ -1,0 +1,17 @@
+---
+layout: post
+title: Chinese cakes are not as good as Russian ones
+date: 2012-1-12 14:55:00
+categories :
+- food
+- Chinese
+---
+
+h1. {{ page.title }}
+
+p(meta). 5 January 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Cakes_food_550.jpg" />
+Among all the variety of Chinese cakes, the best are the fruit ones. There are pieces of real fruits inside, covered with white sweet cream. Fruits are also used for decorations, though, sometimes one might suspect they add some chemical ingredients to them. Concerning the other parameters, Chinese cakes are, of course, not as good as Russian ones - you won't get the same pleasure when biting, smelling fresh chocholate on the top of it, and you won't get that taste - probably, because of the shortcakes, which are more like fluffy bread without taste, which main function is to fill as much space as possible and hold those tons of white cream on the top. At the same time it's fairly easy to order the cake of any sizes, shapes, signs and filling. The service is fast: you pay in the morning, get the cake during lunch.
+
+When you give a Russian candy to Chinese, he says - so sweet! When you give some Turkish delight to a Russian, he says - so sweet! The same is about Chinese sweets and baked goods, including chocholate, which don't have that strong sweet taste, and don't actually have that real chocholate taste you're used to. You could also buy an iced cake, which would be beatuful outside, yet would disappoint you on all other parameters, including taste. It seems Chinese don't really have traditions of baking, which makes it clear, why almost any Chinese cake is cake only technically: the color is fine, the amount of sugar is normal, it has shortcakes, the shape is round, gladdens the eye, but still it feels like it's been copied from some picture from the web. It may be, that because Chinese don't eat much sugar and baked goods, they are more slim and relatively fit, though I would leave this theory to scientists.
