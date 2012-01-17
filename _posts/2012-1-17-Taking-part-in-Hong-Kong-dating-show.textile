@@ -12,7 +12,7 @@ h1. {{ page.title }}
 
 p(meta). 17 January 2012 - Shenzhen
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/n8iZ2KCxo3U" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="550" height="309" src="http://www.youtube.com/embed/n8iZ2KCxo3U" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 My part starts at <a href="http://youtu.be/n8iZ2KCxo3U?t=22m14s" target="_blank">22:14</a>
 
 The show was shown on the 15th of January on 香港亚洲卫视(Asia TV) at 21:00.
