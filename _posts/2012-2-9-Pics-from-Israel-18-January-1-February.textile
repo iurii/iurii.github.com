@@ -13,6 +13,7 @@ h1. {{ page.title }}
 
 p(meta). 9 February 2012 - Shenzhen
 
+The pictures are clickable.
 Mediterranean Sea near Netanya
 <a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Israel15_900.jpg" alt="Click to enlarge" title="Click to enlarge"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Israel15_550.jpg" border="0px"></a>
 On the outskirts of <a href="http://en.wikipedia.org/wiki/Netanya">Netanya</a>
