@@ -15,7 +15,7 @@ title: Yuriy Palamarchuk
      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
      {% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
      {% if year != nyear %}
-       <h3>{{ post.date | date: '%Y' }}</h3>
+       
      {% endif %}
      {% if month == "January" %}
            <li>{{post.date | date: "%d"}} &nbsp;—&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
