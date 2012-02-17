@@ -15,8 +15,8 @@ h1. {{ page.title }}
 p(meta). 17 February 2012 - Shenzhen
 
 The pictures are clickable.
-I didn't expect to see ducks in Israel, not to mention lakes or trees. I thought Israel is a complete desert with lots of sand.
 <a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Israel_h1_700.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Israel_h1_700.jpg" border="0px" width="550px"/></a>
+I didn't expect to see ducks in Israel, not to mention lakes or trees. I thought Israel is a complete desert with lots of sand.
 <a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Israel_n1_900.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Israel_n1_900.jpg" border="0px" width="550px" /></a>
 <a href="http://i637.photobucket.com/albums/uu96/palamar4uk/Israel_n3_900.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/Israel_n3_900.jpg" border="0px" width="550px"  /></a>
 Ordinary little street
