@@ -1,0 +1,28 @@
+---
+layout: post
+title: Streets of Hong Kong on January 18th
+date: 2012-2-21 17:45:00
+categories :
+- cities
+- photos
+- travelling
+---
+
+h1. {{ page.title }}
+
+p(meta). 21 February 2012 - Shenzhen
+
+Hong Kong is way too narrow and overcrowded. Hong Kong girls are prettier than Chinese, and guys are more stylish,
+though I think they're not as handsome as Chinese guys (which are not handsome). In Hong Kong people use
+perfumes, not as much as Russians do, but surely more noticeable, than in perfumeless China.
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong_n4_550.jpg" />
+Traditional tangerine trees for Chinese New Year. They say you'd better not eat them, because of pesticides inside.
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong_n5_550.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong_n3_550.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong_n1_550.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong_n2_550.jpg" />
+The pic is clickable.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong_n6_1024.jpg"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong_n6_550.jpg" border="0px"  /></a>
+This pic is also clickable.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong_n6_1024.jpg"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong_n2_550.jpg" border="0px" /></a>
+
