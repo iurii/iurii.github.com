@@ -12,9 +12,7 @@ h1. {{ page.title }}
 
 p(meta). 21 February 2012 - Shenzhen
 
-Hong Kong is way too narrow and overcrowded. Hong Kong girls are prettier than Chinese, and guys are more stylish,
-though I think they're not as handsome as Chinese guys (which are not handsome). In Hong Kong people use
-perfumes, not as much as Russians do, but surely more noticeable, than in perfumeless China.
+Hong Kong is way too narrow and overcrowded. Hong Kong girls are prettier than Chinese, and guys are more stylish, though I think they're not as handsome as Chinese guys (which are not handsome). In Hong Kong people use perfumes, not as much as Russians do, but surely more noticeable, than in perfumeless China.
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong_n4_550.jpg" />
 Traditional tangerine trees for Chinese New Year. They say you'd better not eat them, because of pesticides inside.
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong_n5_550.jpg" />
