@@ -6,7 +6,6 @@ categories :
 - photos
 - tea
 - girls
-- food
 ---
 
 h1. {{ page.title }}
