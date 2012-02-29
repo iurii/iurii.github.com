@@ -1,0 +1,17 @@
+---
+layout: post
+title: Eating sushi and drinking Japanese tea bags tea
+date: 2012-2-29 17:50:00
+categories :
+- photos
+- tea
+- girls
+- food
+---
+
+h1. {{ page.title }}
+
+p(meta). 29 February 2012 - Shenzhen
+
+Inspite the fact that many Chinese hate Japanese, it's pleasant to admit there are lots of gourmets among Chinese who do enjoy Japanese sushi and do enjoy Japanese anime. It's good to have a friend who shares your interests, especially if it's about crying because of wasabi. Oops, I'm talking about food, just like Chinese! That's what happens when you live somewhere for a long time, hahaha.
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/HongKong_n7_550.jpg" title="Eating sushi and drinking japanese tea bags tea" alt="Eating sushi and drinking japanese tea bags tea"  />
