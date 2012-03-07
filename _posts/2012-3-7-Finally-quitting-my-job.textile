@@ -1,0 +1,16 @@
+---
+layout: post
+title: Eating sushi and drinking Japanese tea bags tea
+date: 2012-3-7 10:10:00
+categories :
+- job
+---
+
+h1. {{ page.title }}
+
+p(meta). 7 March 2012 - Shenzhen
+
+I asked for 5 days off next week. Company didn't approve that. I said I quit, the secretary tried to make me think it over and stay in the company. They asked to change the reason for leaving for "personal reasons".
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/resign.jpg" width="550px" title="Quitting my job" alt="Quitting my job"  />
+Friday - last day. Freedom. Have no idea what to do next.
+
