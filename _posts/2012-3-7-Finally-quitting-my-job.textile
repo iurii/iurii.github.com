@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eating sushi and drinking Japanese tea bags tea
+title: Finally quitting my job
 date: 2012-3-7 10:10:00
 categories :
 - job
