@@ -13,8 +13,7 @@ h1. {{ page.title }}
 p(meta). 20 March 2012 - Shenzhen
 <a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan2_1024" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan2_550.jpg" /></a>
 All pictures are clickable. <br />
-I was playing an American - resigned soldier who found a decent job as a security guard in one of museums of Washington.
-Then lot's of creapy things happen to him, similar to the movie "Night at the Museum" starring Ben Stiller. 
+I was playing an American - resigned soldier who found a decent job as a security guard in one of museums of Washington. Then lot's of creapy things happen to him, similar to the movie "Night at the Museum" starring Ben Stiller. 
 <br />
 <b>Why shooting 4D movie is different:</b><br/>
 1) When shooting - two cameras are used simultaneously. Equipment is from Germany, costs about one million dollars. <br />
