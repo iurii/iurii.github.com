@@ -1,0 +1,71 @@
+---
+layout: post
+title: Shooting "Night at the Museum" 4D
+date: 2012-3-20 20:25:00
+categories :
+- job
+- show
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 20 March 2012 - Shenzhen
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan2_1024" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan2_550.jpg" /></a>
+All pictures are clickable. <br />
+I was playing an American - resigned soldier who found a decent job as a security guard in one of museums of Washington.
+Then lot's of creapy things happen to him, similar to the movie "Night at the Museum" starring Ben Stiller. 
+<br />
+<b>Why shooting 4D movie is different:</b><br/>
+1) When shooting - two cameras are used simultaneously. Equipment is from Germany, costs about one million dollars. <br />
+2) Absence of other characters. I had to imagine mummies, rats, dinosaurs and soldiers of Terracotta Army, acting correspondingly.<br />
+3) Minumum number of items. Only gun, machinegun, bazooka, flashlight and torch were real. I had to imagine the objects which were flying in my direction,
+making sure that my eyballs track the trajectory. Doors and corridors were marked with green boxes. <br />
+4) All the distances and angles - from camera to the actor, or to the item, the angle of the camera are written down in a special notebook. This data
+will be used later, when adding computer graphics. <br />
+5) It usually takes a year and above to complete the movie from scratch. Dozens of people are working on the graphics. In our case we already had the engine,
+so it will take about 6-7 months to finish the movie. <br />
+6) The slow-motion effect was created right on the spot. I was slowly trowing up the barrel, making it look like slow-motion, then adding speed and vice-versa.
+<br />
+Our interpreter. Happily, I can speak Chinese, so there was no need to use interpreter, we were shooting faster. 
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan15.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan15_550.jpg"  /></a>
+Cameraman, like an angel in the sky. There were 3 of them.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan14.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan14_550.jpg"  /></a>
+Oh, the table and the armchair were real too.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan25.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan25_550.jpg"  /></a>
+First I trained with real tennis balls, then with imaginary.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan24.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan24_550.jpg"  /></a>
+Pandas nailed me to the wall using bamboo spears.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan18.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan18_550.jpg" /></a>
+All these green walls are very light, you can't lean against them, so there were comrades to prop them up.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan19.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan19_550.jpg" /></a>
+The girl on the left is an actress and a dancer, yet very modest.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan20.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan20_550.jpg"  /></a>
+Before and after shooting the scene all the distances and angles are measured.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan16.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan16_550.jpg"  /></a>
+Fighting with green men. When I was a kid, me and my bro had a cassette with "Space Jam" on it, starring Michael Jordan.
+I don't remember why, but we were wathing that film everyday for about a month. Would I ever think of myself shooting something
+with green men in 15 years from then?
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan12.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan12_550.jpg"  /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan11.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan11_550.jpg"  /></a>
+Some of my skills were very helpful. Acrobatics for better falls and dancing for better relaxation of body.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan10.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan10_550.jpg"  /></a>
+Two sreens for two cameras.  
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan23.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan23_550.jpg"  /></a>
+The red tapes will allow to add fire using computer graphics. The same red tapes were sticked to the flashlight, which will make it more easy to
+point the direction of ray.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan22.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan22_550.jpg"  /></a>
+Action!
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan21.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan21_550.jpg"  /></a>
+Preparing between scenes.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan17.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan17_550.jpg"  /></a>
+There's nothing technically difficult in these jumps, it just sometimes hurts.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan6.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan6_550.jpg" /></a>
+The same steel wire is used when shooting fights. To keep the pose, you have
+to use your abs and waist, the belts cut into legs. I don't know why don't they use the belt system, which cliffhangers use. 
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan9.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan9_550.jpg"  /></a>
+In the scene I'm being fiered with arrows, so I take cover under the armchair. 
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan5.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan5_550.jpg"  /></a>
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan4.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan4_550.jpg"  /></a>
+The gun weighted like a real one, the machinegun, on the contrary, was made of plastic and was very light. I had to manage it right when shaking. The bazooka was made of plastic foam, so I had to act as if it was heavy.
+<a href="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan3.jpg" target="_blank"><img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_baoan3_550.jpg" /></a>
