@@ -13,4 +13,5 @@ h1. {{ page.title }}
 p(meta). 2 April 2012 - Shenzhen
 
 <embed src="http://player.youku.com/player.php/sid/XMzc1MjIwODcy/v.swf" allowfullscreen="true" quality="high" width="550" height="450" align="middle" type="application/x-shockwave-flash"></embed>
-Tribute to wushu team of Weifang University of Science and Technology, where I had honor to study wushu during 2008-2010.
+Tribute to wushu team of Weifang University of Science and Technology, where I had honor to study 
+wushu during 2008-2010.
