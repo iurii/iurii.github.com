@@ -1,0 +1,18 @@
+---
+layout: post
+title: Shenzhen - Dongmen
+date: 2012-4-6 23:46:00
+categories :
+- photos
+- girls
+- cities
+---
+
+h1. {{ page.title }}
+
+p(meta). 6 April 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/Annicka1_550.jpg" />
+
+Dongmen is like a zoo. Lots of people, everybody is watching everybody, be it a girl, 
+or anyone catchy.  
