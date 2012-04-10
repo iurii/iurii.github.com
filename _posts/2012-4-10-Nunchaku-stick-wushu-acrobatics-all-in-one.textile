@@ -1,0 +1,16 @@
+---
+layout: post
+title: Nunchaku, stick, wushu, acrobatics - all in one.
+date: 2012-4-10 12:20:00
+categories :
+- videos
+- show
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 April 2012 - Shenzhen
+
+<iframe width="550" height="403" src="http://www.youtube.com/embed/n8daN8a2dgA" frameborder="0" allowfullscreen></iframe>
+Youku version is over <a href="http://v.youku.com/v_show/id_XMzc4ODY4NjAw.html" target="_blank">here</a>. 
+Need to shoot something new once my taekwondo gets better, hehehe.
