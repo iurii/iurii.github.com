@@ -1,0 +1,16 @@
+---
+layout: post
+title: Wuhu's dreamland
+date: 2012-4-11 22:40:00
+categories :
+- cities
+- show
+---
+
+h1. {{ page.title }}
+
+p(meta). 11 April 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/Wuhu_dreamland_550.jpg" title="Wuhu's dreamland" alt="Wuhu's dreamland" />
+
+I've been in Wuhu(Îßºþ) for a week. A very peaceful and quite place. I enjoyed the silence so much, as well as the park amusement.
