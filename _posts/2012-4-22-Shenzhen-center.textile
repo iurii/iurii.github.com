@@ -1,0 +1,13 @@
+---
+layout: post
+title: Shenzhen center
+date: 2012-4-22 23:10:00
+categories :
+- cities
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 April 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/Shenzhen_diwang_dasha_550.jpg" title="Shenzhen center" alt="Shenzhen center" />
