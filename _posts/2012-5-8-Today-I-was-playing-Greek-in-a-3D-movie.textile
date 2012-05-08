@@ -1,0 +1,15 @@
+---
+layout: post
+title: Playing Greek in a 3D movie
+date: 2012-5-8 23:15:00
+categories :
+- show
+- shooting
+---
+
+h1. {{ page.title }}
+
+p(meta). 8 May 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_Jesus_550_edit.jpg" title="Playing Greek in a 3D movie" alt="Playing Greek in a 3D movie" />
+This is what I like about acting - you don't have to sit in the office. You can enjoy sun and fresh air instead, playing a Greek guy and thinking of Alexander the Great. The title of the movie is "The Ray of Life".
