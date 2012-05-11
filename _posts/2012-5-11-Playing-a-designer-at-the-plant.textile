@@ -1,0 +1,15 @@
+---
+layout: post
+title: Playing a designer at the plant
+date: 2012-5-11 23:45:00
+categories :
+- show
+- shooting
+---
+
+h1. {{ page.title }}
+
+p(meta). 11 May 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_worker2_550_edit.jpg" title="Playing a designer at the plant" alt="Playing a designer at the plant" />
+In the morning I played a designer, in the evening I played Jesus - pretty tiresome but fun.
