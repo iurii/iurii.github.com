@@ -1,0 +1,15 @@
+---
+layout: post
+title: New melody inspired by Pink Floyd ¡ª Coming Back To Life
+date: 2012-5-18 23:22:00
+categories :
+- piano
+- music
+- video
+---
+
+h1. {{ page.title }}
+
+p(meta). 18 May 2012 - Shenzhen
+
+<embed src="http://player.youku.com/player.php/sid/XMzk3MjAyMTQ0/v.swf" allowFullScreen="true" quality="high" width="550" height="450" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
