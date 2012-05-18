@@ -1,7 +1,7 @@
 ---
 layout: post
-title: New melody inspired by Pink Floyd ¡ª Coming Back To Life
-date: 2012-5-18 23:22:00
+title: New melody inspired by Pink Floyd - Coming Back To Life
+date: 2012-5-18 23:43:00
 categories :
 - piano
 - music
