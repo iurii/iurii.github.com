@@ -13,3 +13,4 @@ h1. {{ page.title }}
 p(meta). 22 May 2012 - Shenzhen
 
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/Annicka_dj_550.jpg" alt="DJ Annicka" title="DJ Annicka">
+Aww isn't she pretty. Beautiful girls is one of the greatest danger for men.
