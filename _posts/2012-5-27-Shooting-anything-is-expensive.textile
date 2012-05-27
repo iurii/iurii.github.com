@@ -12,4 +12,4 @@ h1. {{ page.title }}
 p(meta). 27 May 2012 - Shenzhen
 
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/shooting_1_550.jpg" alt="DJ Annicka" title="DJ Annicka">
-Cameramen, lights, sound, directors - all these people need salary, which makes one shooting day worth at least several hundred dollars (in China), not taking into consideration any other expenses, such as: rent of equipment, transportation, props, actor's salary, etc.
+Cameramen, lights, sound, directors - all these people need salary, which makes one shooting day worth at least several hundred dollars (in China), not taking into consideration any other expenses, such as: rent of equipment, transportation, props, actor's salary, etc. There are no unnecessary people on the spot - someone holds umbrella, someone hold the tent, someone uses handpalm to adjust focus of the camera.
