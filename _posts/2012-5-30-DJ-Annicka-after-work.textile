@@ -1,0 +1,16 @@
+---
+layout: post
+title: DJ Annicka after work
+date: 2012-5-30 23:45:00
+categories :
+- photos
+- clubs
+- girls
+---
+
+h1. {{ page.title }}
+
+p(meta). 30 May 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/Annicka_yellow_550.jpg" alt="DJ Annicka" title="DJ Annicka">
+Picture taken at Coco Park.
