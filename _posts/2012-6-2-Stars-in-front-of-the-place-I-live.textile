@@ -1,0 +1,13 @@
+---
+layout: post
+title: Stars in front of the place I live
+date: 2012-6-2 9:40:00
+categories :
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 2 June 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/my_home_550.jpg" alt="Stars at Bagualing" title="Stars at Bagualing">
