@@ -1,0 +1,15 @@
+---
+layout: post
+title: Morning taekwondo training on the roof
+date: 2012-6-21 11:43:00
+categories :
+- training
+- videos
+---
+
+h1. {{ page.title }}
+
+p(meta). 21 June 2012 - Shenzhen
+
+<embed src="http://player.youku.com/player.php/sid/XNDA4MTMzNjgw/v.swf" allowFullScreen="true" quality="high" width="550" height="450" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+I had to stay on the roof to secure the pads and gloves, which needed to be freshened after many weeks in our fighting club. 
