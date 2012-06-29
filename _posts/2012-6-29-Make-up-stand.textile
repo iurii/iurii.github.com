@@ -1,0 +1,14 @@
+---
+layout: post
+title: Make up stand in Shenzhen
+date: 2012-6-29 22:23:00
+categories :
+- photos
+- girls
+---
+
+h1. {{ page.title }}
+
+p(meta). 29 June 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/makeup_superwoman_shop_550.jpg" alt="Make up stand in Shenzhen" title="alt="Make up stand in Shenzhen" />
