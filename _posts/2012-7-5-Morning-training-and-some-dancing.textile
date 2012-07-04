@@ -1,0 +1,15 @@
+---
+layout: post
+title: Morning training and some dancing
+date: 2012-7-5 7:42:00
+categories :
+- videos
+- training
+---
+
+h1. {{ page.title }}
+
+p(meta). 5 Jule 2012 - Shenzhen
+
+
+<embed src="http://player.youku.com/player.php/sid/XNDIzMjAxOTQw/v.swf" allowFullScreen="true" quality="high" width="550" height="450" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
