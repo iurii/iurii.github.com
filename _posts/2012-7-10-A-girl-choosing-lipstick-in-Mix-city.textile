@@ -1,0 +1,15 @@
+---
+layout: post
+title: A girl choosing lipstick in Mix §³ity
+date: 2012-7-10 6:55:00
+categories :
+- girls
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 July 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/Annicka_make_up_550.jpg" />
+I'm glad I'm not a girl, otherwise I'd had to spend a lot of time and money on make up.

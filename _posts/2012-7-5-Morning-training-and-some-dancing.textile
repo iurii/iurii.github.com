@@ -9,7 +9,7 @@ categories :
 
 h1. {{ page.title }}
 
-p(meta). 5 Jule 2012 - Shenzhen
+p(meta). 5 July 2012 - Shenzhen
 
 
 <embed src="http://player.youku.com/player.php/sid/XNDIzMjAxOTQw/v.swf" allowFullScreen="true" quality="high" width="550" height="450" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
