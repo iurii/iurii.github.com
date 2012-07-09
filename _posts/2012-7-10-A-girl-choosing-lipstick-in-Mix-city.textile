@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A girl choosing lipstick in Mix City
+title: A girl choosing lipstick in Mix
 date: 2012-7-10 6:55:00
 categories :
 - girls
