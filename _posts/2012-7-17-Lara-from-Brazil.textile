@@ -1,0 +1,15 @@
+---
+layout: post
+title: Lara from Brazil
+date: 2012-7-18 11:15:00
+categories :
+- girls
+- photos
+---
+
+h1. {{ page.title }}
+
+p(meta). 18 July 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/Lara_girl_HK_550.jpg" />
+I like Brazilian girls. They are so open-minded, cheerful, easy to get along with and never get bored.
