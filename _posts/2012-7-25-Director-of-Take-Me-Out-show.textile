@@ -13,6 +13,4 @@ h1. {{ page.title }}
 p(meta). 25 July 2012 - Shenzhen
 
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/qiqi_girl_director.jpg" alt="http://youli.co/" title="http://youli.co/" />
-The girl on the left is the director of Chinese "Take Me Out" TV-show. Everyday she wears different clothes, being extremely kind, inspite of
-her high position. Her voice is so pleasant to hear, that you could fall in love only by talking on phone with her. The girl on the right
-is one of guests of the show. Yes, I do prefer this kind of cute girls, and not that superficial bitch-style girls.
+The girl on the left is the director of Chinese "Take Me Out" TV-show. Everyday she wears different clothes, being extremely kind, inspite of her high position. Her voice is so pleasant to hear, that you could fall in love only by talking on phone with her. The girl on the right is one of guests of the show. Yes, I do prefer this kind of cute girls, and not that superficial bitch-style girls.
