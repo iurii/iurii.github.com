@@ -1,0 +1,16 @@
+---
+layout: post
+title: Girl in Hong Kong
+date: 2012-7-31 9:15:00
+categories :
+- girls
+- photos
+- cities
+---
+
+h1. {{ page.title }}
+
+p(meta). 31 July 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/girl_HK_550.jpg" alt="http://youli.co/" title="http://youli.co/" />
+Say "hi!" if you like her legs! :D
