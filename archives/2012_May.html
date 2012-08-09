@@ -18,7 +18,9 @@ title: Yuriy Palamarchuk
        
      {% endif %}
      {% if month == "May" %}
+	   {% if year == "2012" %}
            <li>{{post.date | date: "%d"}} &nbsp;—&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+       {% endif %}   
      {% endif %}    
    {% endunless %}
 
