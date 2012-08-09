@@ -1,0 +1,15 @@
+---
+layout: post
+title: Empty night in Shanghai
+date: 2012-8-10 6:40:00
+categories :
+- photos
+- cities
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 August 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/booth.jpg" alt="http://youli.co/" title="http://youli.co/" />
+Night is probably the most comfortable time to walk out the streets in China.
