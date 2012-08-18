@@ -1,0 +1,33 @@
+---
+layout: default
+title: Yuriy Palamarchuk
+---
+<div>
+    
+ <h3>Archives for June 2012</h3><br />
+
+ <ul>
+ {% for post in site.posts %}
+
+   {% unless post.next %}
+   {% else %}
+     {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+     {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+     {% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
+     {% if year != nyear %}
+       
+     {% endif %}
+     {% if month == "June" %}
+	   {% if year == "2012" %}
+           <li>{{post.date | date: "%d"}} &nbsp;—&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+       {% endif %}   
+     {% endif %}    
+   {% endunless %}
+
+ {% endfor %}
+</ul>
+</div>
+
+
+
+
