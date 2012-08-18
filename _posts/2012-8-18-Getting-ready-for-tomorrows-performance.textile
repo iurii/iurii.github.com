@@ -11,4 +11,4 @@ h1. {{ page.title }}
 p(meta). 18 August 2012 - Shenzhen
 
 <img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/me_splits_dance_550.jpg" alt="http://youli.co/" title="http://youli.co/" />
-Today we had the last rehearsal in the dance club. Tomorrow we're going to have another short rehearsal in the concert hall and that's it. One month of preparation and 4 minutes of dance itself. I must admit it's not that easy to relax, as I thought it would, even as I've been to lots of TV shows here in China.
+Today we had the last rehearsal in the dance club. Tomorrow we're going to have another short rehearsal in the concert hall and that's it. One month of preparation and 4 minutes of dance itself. I must admit it's not that easy to relax, as I thought it would, even though I've been to lots of TV shows here in China.
