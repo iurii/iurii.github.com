@@ -1,0 +1,15 @@
+---
+layout: post
+title: First time dancing on stage
+date: 2012-8-21 23:48:00
+categories :
+- photos
+- show
+---
+
+h1. {{ page.title }}
+
+p(meta). 21 August 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/show_storm_550.jpg" alt="http://youli.co/" title="http://youli.co/" />
+First time dancing on the stage. Never thought in my life that I'd ever be doing something like that.
