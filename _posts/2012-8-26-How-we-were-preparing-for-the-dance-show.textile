@@ -1,0 +1,14 @@
+---
+layout: post
+title: How we were preparing for the dance show (video)
+date: 2012-8-26 10:38:00
+categories :
+- video
+- show
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 August 2012 - Shenzhen
+
+<embed src="http://player.youku.com/player.php/sid/XNDQyNTM5NzQw/v.swf" allowFullScreen="true" quality="high" width="550" height="480" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
