@@ -1,0 +1,14 @@
+---
+layout: post
+title: My new melody "Piano Moods ver.2"
+date: 2012-9-2 18:32:00
+categories :
+- video
+- show
+---
+
+h1. {{ page.title }}
+
+p(meta). 2 September 2012 - Shenzhen
+
+<embed src="http://player.youku.com/player.php/sid/XNDQ1ODk2Mzk2/v.swf" allowFullScreen="true" quality="high" width="550" height="480" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
