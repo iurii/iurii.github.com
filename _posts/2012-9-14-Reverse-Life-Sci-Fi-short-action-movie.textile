@@ -1,0 +1,16 @@
+---
+layout: post
+title: Reverse Life ¡ª Sci-Fi action short movie (video)
+date: 2012-9-14 00:58:00
+categories :
+- video
+- show
+---
+
+h1. {{ page.title }}
+
+p(meta). 14 September 2012 - Shenzhen
+
+<iframe width="550" height="309" src="http://www.youtube.com/embed/UB7t5Hy8jXE" frameborder="0" allowfullscreen></iframe>
+The planning, screen writing and visual effects took 1 week, the shooting itself took about 1 day. The speed was caused by the fact that our short was taking part in the Chinese Shorts Competition 2012. 
+Watch Youku version <a href="http://v.youku.com/v_show/id_XNDM5MTg4MzY0.html" target="_blank">here</a>.
