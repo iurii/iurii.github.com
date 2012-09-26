@@ -13,3 +13,4 @@ h1. {{ page.title }}
 p(meta). 26 September 2012 - Shenzhen
 
 <embed src="http://player.youku.com/player.php/Type/Folder/Fid/18265617/Ob/1/sid/XNDU0MjAzNzA0/v.swf" quality="high" width="550" height="480" align="middle" allowScriptAccess="always" allowFullScreen="true" mode="transparent" type="application/x-shockwave-flash"></embed>
+Link for the video is <a href="http://v.youku.com/v_show/id_XNDU0MjAzNzA0.html?f=18265617" target="_blank">here</a>.
