@@ -12,5 +12,5 @@ h1. {{ page.title }}
 
 p(meta). 10 October 2012 - Shenzhen
 
-<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/mr_asia_contest_4.jpg"/>
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/mr_asia_contest_4.jpg" />
 Had to perform with injured left knee (which was hurt when performing at "China has Talent" contest a couple of weeks ago).
