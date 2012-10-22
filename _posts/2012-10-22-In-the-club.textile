@@ -1,7 +1,7 @@
 ---
 layout: post
 title: People in the club (Shenzhen)
-date: 2012-10-22 9:00:00
+date: 2012-10-22 19:40:00
 categories :
 - clubs
 ---
