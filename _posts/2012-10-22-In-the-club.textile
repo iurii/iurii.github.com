@@ -1,0 +1,16 @@
+---
+layout: post
+title: People in the club (Shenzhen)
+date: 2012-10-22 9:00:00
+categories :
+- clubs
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 October 2012 - Shenzhen
+
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/night_club_1_550.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/night_club_2_550.jpg" />
+<img src="http://i637.photobucket.com/albums/uu96/palamar4uk/2012/night_club_4_550.jpg" />
+I admire the ones who can play the piano or any other musical instrument.
