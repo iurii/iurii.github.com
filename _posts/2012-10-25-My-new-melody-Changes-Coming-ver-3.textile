@@ -1,0 +1,16 @@
+---
+layout: post
+title: My new melody "Changes Coming ver. 3"
+date: 2012-10-25 8:45:00
+categories :
+- music
+- video
+- photos
+- piano
+---
+
+h1. {{ page.title }}
+
+p(meta). 25 October 2012 - Shenzhen
+
+<embed src="http://player.youku.com/player.php/sid/XNDY2NDA0MjI0/v.swf" allowFullScreen="true" quality="high" width="550" height="480" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
